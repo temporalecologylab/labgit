@@ -1,0 +1,21 @@
+Started 17 April 2019
+Building your own repo in the Temporal Ecology Lab
+
+Your repo should:
+	- Include all the files one would need to understand and re-do your work.
+	- Be compact (ideally <1GB if possible) so it is easy for others to use.
+	- Be organized and thus easy for others to follow. 
+
+
+How to make this happen?
+
+(a) All repos should follow the same basic design, they should have the following folders:
+	- analyses (code goes in here)
+	- data (your original data files go in here and they are never modified)
+	- docs (notes, manuscript files etc.)
+
+(b) Include README files (as .txt) to help people know what is in certain folders or how to understand the columns for a data file etc. When in doubt, add a README.
+
+(c) Don't include anything large that others could create from your code (e.g., Stan output) or very large files period (e.g. climate data). Don't include PDFs, photos or other things you need but others do not need to re-do your analyses. (I personally always have a 'notposting' folder where I put all such things. 
+
+Use your .gitignore file to make sure certain file extensions or folders are not tracked!

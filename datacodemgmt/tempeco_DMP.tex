@@ -1,0 +1,177 @@
+\documentclass[11pt,a4paper,oneside]{article}
+\renewcommand{\baselinestretch}{1}
+% \renewcommand*{\thefootnote}{\fnsymbol{footnote}}
+\usepackage{sectsty,setspace} 
+\usepackage[top=1.00in, bottom=1.0in, left=1in, right=1in]{geometry} 
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{amsmath,latexsym,amssymb,wasysym}
+\usepackage{natbib}
+\usepackage{hyperref}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LO]{Data Management Policies}
+\fancyhead[RO]{Wolkovich Lab}
+
+\newenvironment{smitemize}{
+\begin{itemize}
+  \setlength{\itemsep}{1pt}
+  \setlength{\parskip}{0pt}
+  \setlength{\parsep}{0pt}}
+{\end{itemize}
+}
+
+\def\labelitemi{--}
+
+\begin{document}
+\bibliographystyle{/Users/Lizzie/Documents/EndnoteRelated/Bibtex/styles/amnat}
+
+
+\title{Data Management Policies\\ for the Wolkovich Lab}
+% alternative: How microgenetic changes drive phenological hyperdiversity
+\date{\today}
+%\author{}
+\maketitle
+\tableofcontents
+
+%%%%%%%%%%%%%%%%%%%
+%% To do notes %%
+%%%%%%%%%%%%%%%%%%%
+%% Look up JISC %%
+
+
+\section{Overview}
+The Wolkovich lab Data Management Policies are designed to make data produced by the lab useful both to those who collected the data and to those who may also benefit from its use over the short and long-term. The main goal is to produce robust, re-usable data with adequate additional information and storage practices that give the data a long lifespan. To that end, this document details how data are managed within the Wolkovich lab, including: how and where data should be stored, how data are shared within the lab, and how data are managed beyond the lab, including public archiving of data. In addition to helping each member of the lab keep their data organized and preserved for their own research benefits the policies also serve researchers in the lab to help meet data management requirements of funding agencies.  
+
+\section{Does this apply to me?}
+This document applies to data produced by anyone who is appointed in the lab under the supervision of Lizzie Wolkovich (henceforth `Lizzie'), including undergraduates, graduate students, postdoctoral fellows and associates and any visiting students or research fellows. It applies regardless of funding source or whether you are co-supervised or have many co-authors. If you want to deviate from this plan you must discuss this with Lizzie within 6 months of starting the project that you expect will deviate from these policies. Any deviations that both you and Lizzie agree upon must be written down by you and sent to Lizzie in a format that includes your name (signature on paper or emailed from you) and the date. While lab members are encouraged to apply these policies to all their data, these policies do not apply to data you produced before arriving in the lab or to projects fully outside of the lab (discuss with Lizzie if you are unsure). 
+
+\section{Types of data}
+These policies cover raw and derived data and code. 
+
+\subsection{Raw data} Raw data (also known as primary or source data) are those collected or produced by the lab that have not been processed to averages or in other ways that would make them derived. Examples are: counts of one species in a plot, total C or N of plant tissue, biomass weights, leaf shapes. Raw data are generally numerical or character data written on paper or electronically (raw data do not include things like plant leaves you need to process to turn into data).
+
+\subsection{Derived data} Derived data are the output of raw data after some sort of processing (often statistical). Examples are: mean first flowering date, slope values from a regression for different species, standard errors.
+
+\subsection{Other types of data \& things that are borderline data} Various other types of data exist, such as data produced by model simulations. This plan is not designed to cover all other types of data so when beginning a project with a novel data type the researcher should meet with Lizzie to discuss best practices for organization, storage and preservation of the data. 
+
+Additionally some things are not exactly data, or at least are not the type of data that fall under this plan. Such things include inventory lists as projects develop or field notes while setting up projects. For example, when I started a project back in 2003 I visited about 100 or so shrubs and took notes on each, only 56 shrubs ended up in the experiment so that list of 100 or so may be data, but not the type that fall under this plan. If you have any queries, ask Lizzie. 
+
+\subsection{Received data} The Wolkovich lab often uses data obtained from somewhere/someone else (which I call `received data' for now), such as from a colleague or from a national repository. Before any data enter the lab, the lab researcher(s) and data provider must agree on how data will be used and published. In general, lab researcher(s) should try to follow all the lab policy guidelines including full publication of the raw data, however this is not a requirement. What is required? 
+\begin{enumerate}
+\item Data must be properly cited and acknowledged including acknowledging grant funding numbers if applicable. 
+\item Data must conform to any data standards or policies set out by the original data user (e.g., any policies by the US-NPN for use of their data must be followed). 
+\item Once any such data enters the lab it must follow the organization and internal storage guidelines. 
+\item Derived data from the received data must follow all of this document's policies.
+\item See also `Co-authorship \& data' below. 
+\end{enumerate}
+
+\subsection{Code} Code! If you are in the lab hopefully you love to code or will soon. All code used for publication or to clean/manage data falls under this document. Lots of code when you are playing around or such does not, but such code probably leads to code used for publication or to clean/manage data so consider that it may eventually fall under this document.
+
+\section{Data organization and formats}
+\subsection{File formats}
+Your data should be kept in tabular form with accompanying metadata \emph{from the day it is digital}. For some data this will be \emph{the} day you collect. For other data, it may start on paper. Data collected on paper must be collected with minimal metadata immediately (reference to project, who collected it, date of collection, and where collected), then scanned (or take a very sharp photo) within \emph{one week of collection} for field-collected data, though ideally scan it the same day; for data collected on paper in the lab, you must scan it \emph{the day of collection.}  All paper data must be transferred to electronic format within one month of the end of field season---though not to exceed 4 months after data collection. Acceptable formats for this are:
+\begin{enumerate}
+\item Comma separated (\verb|csv|) or tab-delimited files for the tabular data and plain text (\verb|txt|) for the metadata. The two files must be linked by common names and the tabular filenames must be listed near the top of the metadata file. One \verb|txt| file for the metadata may suffice for multiple \verb|csv| files if properly documented.
+\item An Excel notebook (\verb|xls|or \verb|xlsx|) with tabs for the data and a metadata tab. If using this format though you \emph{must} submit final files to a data repository in a nonproprietary form (see option 1).
+\item A Google notebook with tabs for the data and a metadata tab. If using this format though you \emph{must} submit final files to a data repository in a nonproprietary form (see option 1).
+\end{enumerate}
+
+\subsection{Data formatting}
+To repeat, your data should be kept in tabular form with accompanying metadata \emph{from the day you collect it.} 
+
+In general, try to keep your data in the `long' form and keep items in as many separated columns as needed (when in doubt use more columns). This means use more rows even if it means duplicating information in some, but not all columns. For example, if you are listing all the plant species you counted in a plot you might have the following columns: \verb|date|, \verb|site|, \verb|observer|, \verb|plot|, \verb|genus|, \verb|species|, \verb|varietyetc|. Under this format you would repetitively enter rows of \verb|date|, \verb|site|, \verb|observer|, \verb|plot| for each species. Also note how many columns you have: generally keep track of date, observer, and keep species names broken down into different columns---it's quicker code to put them together later than to break them apart. 
+
+In general use lowercase letters when possible and allowed and avoid spaces and special characters (accents, exclamation points). 
+
+Dates should be day-month-year (not month-day-year). To avoid confusion try to use a two-digit day, three-letter month, and four-digit year (e.g., \verb|04-Jul-1786|).
+\subsection{Metadata}
+All your files should have metadata. Metadata is info about data. \emph{Start your metadata as soon as you start any data file.} As you start it should include the date you started the file, the work, who is writing the metadata and then all the relevant information including:
+\begin{smitemize}
+\item Why were the data collected? What project are the data for?
+\item Who collected the data? If applicable, who entered the data? \emph{Record who collected each piece of data.}
+\item When were the data collected?
+\item Where were the data collected? (Reserve name, city, state, country and GPS location if possible)
+\item What does each column mean? In what units? What are the sites or plots or such (if mentioned)?
+\item What authority do the species names come from (if applicable)?
+\item What changes have been made to the data and by whom? (Though try to avoid this if possible, see below \ref{cleaning}.)
+\item Any other relevant information.
+\end{smitemize}
+You should record who wrote each bit of the metadata and when. In general you should aim to have all the information needed to follow the Ecological Metadata Language (EML), which you can learn more about here: \url{https://knb.ecoinformatics.org/#external//emlparser/docs/index.html}, but be forewarned, this is a lot of information.
+\subsection{Cleaning data}
+\label{cleaning}
+Data often need cleaning. For example, species names are mis-spelled or commas are misplaced in one cell of a large spreadsheet etc.. If possible all data should be cleaned by a coded language (such as \verb|R|), this way it is possible to track all cleaning. Even one cell changes are best done in a code file, that ideally is dedicated to cleaning your data. If not possible keep specific notes on your cleaning, including who did it, when and what the change was \emph{from} and \emph{to}. For example, `on 05-Sep-2015 Jane H. Smith changed the value for g of N (grams of nitrogen) for site X, plot 2, sampled on 03-Jul-2014 from 60 to 0.60.' 
+\section{Where to store data}
+\subsection{Data storage in the lab}
+\label{labstorage}
+Data in the lab may be collected on paper first or immediately into a computer. You should note in your metadata the initial mode of collection and store all paper datasheets in the appropriate place in the lab.
+
+All your data should be saved to the Wolkovich Lab folder on the W drive at Weld Hill, which is regularly backed-up. If you choose to leave data on your personal machine you \emph{must transfer the file to the W drive within one week or any modification.} Please update files instead of keeping versions of them with different names. Ideally data will also be kept in a \verb|csv| or \verb|txt| form on GitHub or another versioning repository. Code can be kept on Github only if this is clearly documented.
+
+For each of your projects include a tab-delimited \verb|txt| or \verb|csv| file in the ``Where DataCode Live'' folder on the lab's Google drive. This file should be named after your project, include your name as author of the file, the names of everyone who worked on the project, and the time period of the project. It should list each raw (not derived!) datafile and where it is located as well as the names of all major code files and where they are located. Make this very clear so anyone can find the associated data and code. You must check this file and update it as needed as every 6 months. A template is provided in the ``Where DataCode Live'' folder called \verb|Ze Template| to help. Be sure to update this file once data are publicly archived and discuss with Lizzie making sure all files are properly archived.
+
+\subsection{Preferred repository for data archiving and publication}
+All lab members who use data in the lab agree to make the data public (see \ref{redistrib} below) and are responsible for publication of the data. The recommended repository is the \href{http://knb.ecoinformatics.org/}{Knowledge Network for Biocomplexity} (KNB), because it includes excellent metadata standards and is a central repository for ecological data. Other repositories for data are allowed if approved by Lizzie and given that they are part of \href{https://www.dataone.org/}{DataOne}, this includes \href{http://datadryad.org/}{Dryad}. Code related to data should ideally be published with the data on KNB or other repositories. It can also be published on \href{https://github.com/}{GitHub}, if clearly linked and noted from the data publication site.
+
+\subsection{Beware data provenance issues}
+Provenance of your data includes from where it \emph{originally} comes. Provenance issues crop up when data show up multiple places and it is unclear whether you are looking at the same data or different data or ... who knows. Avoid creating such issues by publishing your data \emph{once} in \emph{one place}. So, if your data must be published on the Harvard Forest LTER site \emph{do not} re-publish them on KNB or other sites. Avoid committing to duplicate publication and make sure you know your funders' and field sites' requirements for publication to avoid re-publication. If needed ask sites to point to the one place you publish the data (for example, publish the data on KNB and ask journals or other repositories to point to the data on KNB).
+
+\section{Co-authorship \& data}
+Authorship requires substantial intellectual contribution, which includes the reading and editing of all manuscripts on which you are a co-author through the submission-for-publication stage (when you submit a paper you must say that `all co-authors approve of the submitted version,' thus if you are a co-author you must do this). In general, if you have helped \emph{design} collection of data then you have made an intellectual contribution that is often expected within the lab to lead to co-authorship on an initial resulting manuscript, but co-authorship will be handled on a manuscript-by-manuscript basis. In general, the Wolkovich lab does not give co-authorship for collection or donation (aka sharing or loaning or giving) of data. 
+
+\emph{First authors in the lab must talk about co-authorship expectations and agreements early and often with all possible and existing co-authors}. If you are a potential co-author and feel a first author is not meeting this expectation, bring it up to Lizzie.
+
+If you agree to take on existing data you cannot offer co-authorship for use of the data unless four criteria are met:
+\begin{enumerate}
+\item The co-author agrees to (and does) make substantial intellectual contribution to the work, which includes the reading and editing of all manuscripts on which you are a co-author through the submission-for-publication stage. This includes helping with interpretation of the data, system, study questions. 
+\item Agreement of co-authorship is made at the start of the project.
+\item Agreement is approved of by Lizzie.
+\item All data-sharers are given an equal opportunity at authorship. It is not allowed to offer or give authorship to one data-sharer unless all other data-sharers are offered an equal opportunity at authorship---this \emph{includes} data that are publicly-available, meaning if you offer authorship to one data-sharer and were planning to use publicly-available data you must reach out to the owner of the publicly-available data and strongly offer equivalent authorship as offered to the other data-sharer. As an example, if five people share data freely with you for a meta-analysis and and a sixth wants authorship you either must strongly offer equivalent authorship to all five or deny authorship to the sixth person. Note that the above requirements must also be met in this situation. If one or more datasets are more central or critical to a paper to warrant selective authorship this must be discussed and approved by Lizzie (and has not, to date, occurred within the lab). 
+\end{enumerate}
+
+\section{Redistribution policies \& timelines}
+\label{redistrib}
+The Wolkovich lab is committed to data sharing and open data access. This means all your data related to the lab must be made public, whether you publish work from the data or not. 
+
+\subsection{Length of time after collection to be made available to rest of lab}
+Data should be available for anyone in the lab to look at immediately upon completion of the experiment or field sampling and you should be happy to show anyone the data at any point (failure to do this will freak out Lizzie and not be good for you). `Experiment' or `field sampling' are considered to be events lasting less than one year in general and include: a growth chamber study, a summer field season (e.g., May-September in Quebec or March-October for winegrapes in California). Please note your electronic data should be properly stored at all times in the lab (see \ref{labstorage}).
+	
+Data you collected and planned to publish are available to others in the lab for use at the time of publication of a related manuscript or  {\bf one year} after completion of the project if no manuscript is currently submitted, whichever comes first. What timeframe delimits a `project' should be defined upfront with Lizzie, otherwise it will be assumed to fall under an `experiment' or `field sampling' as mentioned above. So, for example, if you plan to sample a field site for three years and will then analyze the resulting data you must have this timeline approved by Lizzie before the start of the first field season. Deviations from the one year requirement may be approved if discussed early and openly, and depending on circumstances.
+
+Unless otherwise agreed, Lizzie can use data collected in the lab immediately for grants; she must inform others using the data when doing this. 
+
+\subsection{Use of lab data}
+Sharing and use of lab data are encouraged, given that you are open about your plans to use the data. If you plan to use lab data that do not fall under your project you must openly discuss this with Lizzie and whoever else is using the data before starting any work and you must be open about your use of the data during your work. Lizzie has the right to ask you to defer from using the data if your use may conflict with already-underway-use by others in the lab.
+
+\subsection{Length of time after collection for data to be made public}
+Data you use related to the lab should be made public: immediately at the time of publication, or {\bf two years} after completion of the project---whichever comes first. Please review the definition of project above. 
+	
+\subsection{Data licenses}
+Data from the Wolkovich lab should generally be made public under a Creative Commons license. In general the CC0 is recommended, this license clarifies that the data are in the public domain, and one relies on scientific norms for attribution.  An alternative option is the CC-BY, in which the data do not go into the public domain. An overview of the issues is provided by the \href{http://discovery.ac.uk/files/pdf/Licensing_Open_Data_A_Practical_Guide.pdf}{JISC (click here)}. 
+
+\section {Harvard Policies}
+Here are ye Harvard Policies and how data in the Wolkovich lab fits into ye policies. All data in the Wolkovich lab fall under these policies. In addition, you may need this verbaige for official grants. Enjoy!
+
+\noindent Harvard University has developed and adopted a Research Data Security Policy requiring appropriate technical and process protections for confidential research data: \url{http://www.security.harvard.edu/research-data-security-policy}. \\
+
+\noindent Under the policy, research data is classified into levels to indicate the sensitivity of the data.  The levels range from Level 1 for ``De-identified research information about people and other non-confidential research information'' to Level 5 for ``Extremely sensitive information about individually identifiable people.''\\
+
+\noindent Data at each level is subject to a set of detailed technical and administrative process protections that are appropriate to protect the security, privacy and confidentiality of the particular type of data.  This policy has been formally adopted by the University and applies to all research involving confidential data whether funded or not.\\ 
+
+\noindent  Harvard has a university-wide policy addressing the required protections for intellectual property arising from research.  These policies can be found here: \url{http://otd.harvard.edu/resources/policies/}.\\
+
+\noindent Data will not be encumbered with intellectual property rights (including copyright, database rights, license restrictions, trade secret, patent or trademark) by any party (including the investigators, investigators' institutions, and data providers); nor is it subject to any additional legal
+requirements.\\
+
+\noindent All data in the Wolkovich lab are considered as non-confidential research information and openly-available upon request (if requested before public archiving). 
+
+% \newpage
+% {\def\section*#1{}
+% \bibliography{/Users/Lizzie/Documents/EndnoteRelated/Bibtex/LizzieMainMinimal}
+% }
+
+\end{document}
+
+
+
