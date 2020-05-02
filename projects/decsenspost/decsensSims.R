@@ -13,12 +13,12 @@ set.seed(113)
 if(length(grep("ailene", getwd()))>0) { 
   setwd("~/Documents/GitHub/ospree/analyses/decsens")
 } else if(length(grep("lizzie", getwd()))>0) {
-  setwd("~/Documents/git/projects/treegarden/budreview/ospree/analyses/decsens")
+  setwd("~/Documents/git/lab/labgit/projects/decsenspost")
 } else if(length(grep("Ignacio", getwd()))>0) { 
   setwd("~/GitHub/decsens") 
 } else if(length(grep("catchamberlain", getwd()))>0) { 
   setwd("~/Documents/git/ospree/analyses/bb_analysis/pep_sims")
-} else setwd("~/Documents/git/projects/treegarden/decsens/analyses")
+} else setwd("~/Documents/git/lab/labgit/projects/decsenspost")
 
 ##########################
 # The below sets up data #
