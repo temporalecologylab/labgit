@@ -1,0 +1,71 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww11300\viewh11360\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 Notes from meeting with I\'f1aki re: PMP\
+22 June 2017\
+\
+
+\b Required formats for PMP data entry
+\b0 \
+\ul Climate (order matters!):\
+\ulnone (1) Stn\
+(2) latitude\
+(3) year (must be 365 or 366 days for each year)\
+(4) doy\
+(4) t mean\
+(5) t min\
+(6) t max\
+(7) photoperiod data!\
+\
+\ul Phenology data:\ulnone \
+(1) Stn\
+(2) pop/var\
+(3) year\
+(4) doy\
+\
+\ul Fit:\ulnone \
+- Unique list of stations and years. \
+\
+
+\b Setup notes
+\b0 \
+Need TXT files for entry into PMP. \
+Use underscores in names, no dots or periods. \
+\
+
+\b STN code\
+
+\b0 - Use this for each experiment, but I\'f1aki says you can ignore year when setting these up (e..g, for fu13, we had two years of amb+1 treatments, they could be treated together as one station)\
+- Must be numeric. \
+\
+
+\b Model
+\b0 \
+UNICHILL, then add photoperiod to Phase 2 (Triangular) \
+\
+
+\b Things to try
+\b0 \
+- Treat each species as a different variety and try multiple models (I\'f1aki says there is a automatic f(x) for this in PMP). \
+- In Triangular f(x), or whichever model you use for photoperiod, you can select your photoperiod value from a drop-down menu. \
+\
+
+\b Miscellaneous:
+\b0 \
+- Modify optimization code (xml), change the Triangular f(x): Topt should be set between 0 and 24 \
+- Number of repetitions is same as number of chains. \
+- Running multiple models: Export -> Create a new file from scratch, then go back to PMP (rename your file), change the model, then Export -> Append. You need to then find PMP_console.exe and get into this from DOS prompt to run the resulting xml file. \
+- Use stats manager to look at what the phases look like. \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b \cf0 Which models to try? 
+\b0 \
+- Try the ones in Chuine et al. 2016, 
+\i GCB
+\i0 . \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+\cf0 - Use some rational decisions (e.g., say we used mean temperatures only) \'85 and use several major models published in the last years \'85 try a few different chilling models?  See results on photoperiod here: Integrating interactive effects of chilling and photoperiod in phenological process-based models. A case study with two European tree species: Fagus sylvatica and Quercus petraea}
