@@ -1,0 +1,69 @@
+\documentclass[11pt,a4paper,oneside]{article}
+\renewcommand{\baselinestretch}{1.8}
+% \renewcommand*{\thefootnote}{\fnsymbol{footnote}}
+\usepackage{sectsty,setspace} 
+\usepackage[top=1.00in, bottom=1.0in, left=1in, right=1in]{geometry} 
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{amsmath,latexsym,amssymb,wasysym}
+\usepackage{natbib}
+\usepackage{lineno}
+\usepackage{todonotes}
+\usepackage{hyperref}
+\usepackage{siunitx}
+
+
+%Potential titles:
+\title{Growth Chambers: Notes and Tips} % traits chapter
+%\title{Climate or traits: understanding the drivers of spring phenology in temperate woody species}
+
+\author{D. Loughnan}
+%\date{\today}
+%put the fancy title on
+
+\begin{document}
+
+
+\maketitle
+
+\section{About the chambers}
+
+\par There are two types of chambers the TPC, which has a temperature range of 3$^\circ$C to 40$^\circ$C, and the LTR which have a temperature range of -10$^\circ$C and 40$^\circ$C, temperatures beyond this are not stable. Programming the chambers is the same for both, but the two additional differences between the two types is that the LTR have a glass wall separating the chamber from the lights, preventing them being lowered to be closer to the chamber floor. A rack is already installed in the chamber and the height can be adjusted to change the light intensity plants in the LTR receive. Second, the lights in the LTR can be pulled out using the cabinet door and changed this way. Both chambers have two types of lights, a white LED and a far-red bulb. 
+\section{Scheduling}
+
+\subsection{Creating schedules}
+\par Schedules can last as long as 365 days and consist of as many steps as desired. Unlike with the old chambers, they cycle automatically. Schedules can be set and modified remotely using the software on the USB key. If a unique or complex schedule is desired it can be imported from a csv file, but it must use the template (ie column names and order) that is used in the chambers. The template can be created by exporting a schedule onto the USB and then repopulating the columns. When exporting the schedule from the chamber files can be saved as either a SCH file, which would allow schedules to be transfer between chambers, or as a csv file that can be modified using excel. 
+
+\subsection{Fans}
+\par The fans are located in the bottom grates and ensure consistent temperatures throughout the chambers. But higher speeds are recommended if plants are tall. It is recommended that fans are run at or greater than 85\%. If airflow causes stress to small or sensitive plants, it can be reduced to as low as 50\%.
+
+\subsection{Ramping}
+\par The default setting is for changes to be instantaneous, with changes occurring in under 10 min depending on the magnitude. If ramping is desired, then this can be selected for temperature and light individually using the "schedule options" button and clicking the associated boxes. Additional entries are required to create these ramped periods, and while the rate cannot be explicitly controlled, by extending the period between these transitions the rate can be increased or reduced. 
+
+\section{Alarms}
+
+\par The chambers are very precise and have relatively narrow thresholds for sounding the alarms. Notification of changes in temperature can be sent via email to individuals with certain access levels. An initial warning will be sent following changes of 3$^\circ$C and the alarm will sound with changes of 5$^\circ$C. If changes in temperature greater than 5$^\circ$C persist for longer than 10 min, without being addressed, the chambers will turn themselves off. Alarms can be cleared if you have a certain level of access and this can be done remotely. It should be noted that the chambers cannot sense if the reason for temperature changes is simply that the doors have been left open. As such, it is important to limit how long you are working in the chambers with the doors wide open.
+
+\section{Access levels}
+
+\par There are various access levels that prevent certain levels from scheduling or receiving notifications. For example, level 0 will receive all notifications, while 1 will only receive warnings and alarm notifications, and 2 only alarms notifications.  
+
+\section{Cleaning and maintenance} 
+\begin{itemize}
+\item The chamber floor can be removed in two pieces using a screwdriver to pry it up. 
+\item There is also a filter under the floor in the middle of the back wall that should be cleaned periodically. 
+\item Instrument ports, the two holes located in the front of the chamber, each have foam inserts. These are very important for the two LTR, but are less important for the TPC, but ideally we don't loose them!
+\item Following an experiment, the chamber can be cleaned by being left at 40$^\circ$C for 24 hours. 
+\item If the chambers are not in immediate use, it is ideal to leave them running at 20$^\circ$C with the lights off if they will be used again within two weeks. But for longer periods (months) they can be shut off using the green power button. 
+\item The bulbs will last a long time, but replacements can be purchased either from their manufacture, Fluence, or from Biochambers.
+\item The temperature sensor box is water resistant but best if it does not get wet.
+\end{itemize}
+
+\section{Miscellaneous}
+\begin{itemize}
+\item The chambers have a three year warranty starting Monday November 30, 2020. Hardcopies of the warranties are in the binder with the chamber manuals and schematics in Shannon Guichon's office and a scanned copy is saved to the desktop of the lab computer (Growth Chambers/chamberwarranties.pdf).
+
+\item The lights cannot be dimmed, so sunglasses might be nice if working in the chambers for extended periods
+\end{itemize}
+
+\end{document}  
