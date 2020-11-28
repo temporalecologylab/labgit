@@ -1,0 +1,31 @@
+From: Chamberlain, Catherine <cchamberlain@g.harvard.edu>
+Date: Tue, Jul 23, 2019 at 9:08 AM
+Subject: Herbivory Protocols
+To: <yann.vitasse@wsl.ch>, <frederik.baumgarten@wsl.ch>
+
+
+Hi Yann and Fredi, 
+
+I am Cat Chamberlain, Lizzie Wolkovich's PhD student. From what Lizzie has told me, it sounds like we are all interested in very similar topics and have some similar ideas! She mentioned you were both investigating relationships between spring freezes and herbivory as well so I wanted to pass along some protocols and some references. 
+
+A lot of papers test multiple traits in order to discern a relationship so I chose palatability through leaf toughness and leaf thickness and then also total phenolic content. 
+
+Leaf thickness is fairly straightforward, you simply need a digital micrometer. However, there is less support for this in the literature so I suggest if you are limited on time or resources to skip this method. 
+
+Leaf toughness is very easy and interesting and well supported in the literature. I used a Shimpo Force Gauge (which I loved!) but I was told a Chattilon Push Pull Gauge also works (either the 500 or 1000g scale depending on the toughness of your leaves). I built a base to hold the force gauge but you could also build a base to hold the leaves. You want to standardize the movement because the gauges are extremely sensitive - I suggest testing 10-15 leaves before recording measurements.
+
+Finally, for total phenolic content I have attached the protocol I am using. You can use freeze-dried leaves (-80C), dried leaves (at 60C) or fresh mass. To make a standard curve I am using Caffeic acid but you could also use Gallic acid.  
+
+I have attached some papers on leaf toughness and total phenolic content. I would be happy to pass along more if you'd like.
+
+I am also working on those hinge models for you and will pass them along when I am done! 
+
+Good luck and please do not hesitate to reach out if you have questions. I would also be happy to Skype.
+
+All the best,
+Cat
+
+-- 
+PhD Candidate
+Harvard University | Arnold Arboretum
+Department of Organismic and Evolutionary Biology

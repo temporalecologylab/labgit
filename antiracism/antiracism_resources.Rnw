@@ -1,0 +1,83 @@
+\documentclass{article}
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{mdframed}
+\usepackage[small]{caption}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{1.5}
+\parindent 0pt
+%\usepackage{lineno}
+%\linenumbers
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+
+\begin{document}
+\noindent \textbf{\Large{Anti-Racism Action links}}
+
+\large\textbf{Learning to be an ally:} \\
+\href{https://docs.google.com/document/u/0/d/1H-Vxs6jEUByXylMS2BjGH1kQ7mEuZnHpPSs1Bpaqmw0/mobilebasic?urp=gmail_link}{How to Become an Ally} \\
+
+
+\large\textbf{Recent Articles:}\\
+https://www.newyorker.com/magazine/2020/03/09/prep-for-prep-and-the-fault-lines-in-new-yorks-schools \\
+
+
+\large\textbf{Movie suggestions:} \\
+Do the Right Thing - Spike Lee \\
+13th - Ava DuVernay \\
+I Am Not Your Negro - Raoul Peck \\
+American Son - Kenny Leon \\
+Just Mercy - Destin Daniel Cretton \\
+
+
+\large\textbf{Video Links:} \\
+https://www.youtube.com/watch?v=6MYHBrJIIFU \\
+https://www.youtube.com/watch?v=dD-bcK-lxH4 \\
+\href{https://www.youtube.com/watch?v=zYX2CHFT4EM}{Calling In vs Calling Out} \\
+
+
+\large\textbf{Book suggestions (Fiction and Nonfiction:} \\
+Americanah - Chimamanda Ngozi Adichie \\
+Washington Black - Esi Edugyan \\
+The Bluest Eye - Toni Morrison \\
+Between the World and Me- Ta-Nehisi Coates \\
+Women Race \& Class - Angela Y. Davis \\
+The Fifty-Year Rebellion - Scott Kurashige \\
+I Know Why the Caged Bird Sings- Maya Angelou \\
+Me and White Supremacy - Layla Saad \\
+White Fragility: Why It's So Hard for White People to Talk About Racism - Robin DiAngelo \\
+Lost Prophet: The Life and Times of Bayard Rustin - John D'Emilio \\
+Voices of Freedom- Henry Hampton and Steve Fayer \\
+Freedom's Daughters - Lynne Olson \\
+Civilities and Civil Rights: Greensboro, North Carolina and the Black Struggle for Freedom - Willam H. Chafe \\
+
+\large\textbf{Support local POC bookshops:} \\
+
+{\begin{figure} [H]
+  -\begin{center}
+  -\includegraphics[width=11cm]{images/bookstores.jpg}
+  -\end{center}
+  -\end{figure}}
+
+
+
+
+
+
+
+\end{document}

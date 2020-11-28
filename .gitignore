@@ -1,3 +1,7 @@
 *.RData
 *.DS_Store
 *.DS_store
+
+.docx
+.ppt
+.pptx
