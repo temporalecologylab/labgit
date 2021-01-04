@@ -1,0 +1,45 @@
+Started 23 October 2020
+Note to Lizzie: See also cloudstoragenotes.txt
+
+Last update 4 January 2021
+
+<><><><><><><><><><><><><><><><><><><><>
+Backup your files!
+
+If you're in the lab (grad student, postdoc, technician) you need to back up all your work related to the lab (your data, code, reference manager files, presentations, etc.). Most of your code, tex, and data files *should* be on Github, additionally your raw data and long-term data that for one reason or another are important but not published on a public data repository should be backed up the lab's server, midge (see the lab's Data Management Plan). If you need info on backing up to midge check out info on the labshadow (repo), if you still need info contact the current person in charge of that according to lab tasks.
+
+In addition, you likely will need an option to back up additional files. Because different solutions work for different people, the lab supports up to $80 CAD per year for costs related to backing up your lab-related files (i.e., cloud storage and/or backup hard drives), with flexibility to buy a multi-year storage options.
+
+*You should set up a functional backup storage option ASAP and make sure your computer backs up daily or weekly (seriously, no less than that often).*
+
+There are two main options:
+(1) Cloud storage (some options below), where your files are backed up to the cloud regularly and you pay a per GB or per time unit (or per GB x time period) fee. *Be sure you pick a cloud storage option that does not interfere with GitHub.*
+(2) Backup hard drives. You buy two or more backup hard drives and back up your files to them regularly using an automated program on your computer (e.g., Time Machine on Macs). You must own at least TWO hard drives and you must use an AUTOMATED system. You should keep the hard drives in separate locations (e.g., one at work, one at home). 
+
+Either way to can front-load your per-year rate for at least two years at a time. For example, buy a 2-year BackBlaze cloud plan (for $110 USD) or spend $160 for hard drives. 
+
+Submit an expense report to be reimbursed. Check with Lizzie for a speed chart code.
+
+Disclaimer: These options are intended for backing up your lab-related data, and NOT for backing up personal data or sensitive data (students information, course information). 
+
+<><><><><><><><><><><><><><><><><><><><>
+Cloud storage options as of October 2020
+If you have issues/opinions after using any of these, please share!
+
+Some of the below are cheaper if you buy a group plan, feel free to survey your lab mates and buy in together! All money saved can go toward pizza. 
+
+Forestry Backup via Microsoft 
+2 TB quota mobile worker cloud storage solution, with Dropbox like features, is now available for faculty members at no cost. Based on the Microsoft’s OneDrive for Business platform (most recent email I have about this is 17 Jan 2020)
+
+Backblaze https://www.backblaze.com/backup-pricing.html
+Currently $60/computer of $110/2-years
+
+Wasabi (https://wasabi.com/)
+Cheap and fast they say
+$0.0059 per GB/month
+
+SpiderOak One https://spideroak.com/one/
+Currently $69 annually for 150 GB
+
+Amazon Glacier https://aws.amazon.com/glacier/
+Pricing is access x GB x time dependent, check out: https://aws.amazon.com/s3/pricing/
