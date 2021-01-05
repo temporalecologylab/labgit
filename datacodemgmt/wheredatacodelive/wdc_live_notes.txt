@@ -1,0 +1,93 @@
+Started 5 Jan 2020
+Started by Lizzie
+
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+<> How to review/check Where DataCode Live (WDC Live) files <>
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+
+There are two main goals when checking:
+(1) Try to answer "Could you re-do the analysis based on what you see there? (Try to decide this within 5-10 minutes of checking)" ... if you're fairly sure the answer is no, then write the person who did the file, ask for changes, then check again. 
+(2) Make sure data gets archived. 
+
+So, when reviewing:
+Highlight to Lizzie anything that needs to be archived. 
+
+Make sure there are methods files, datafiles and depending on where the analysis is at, analysis files. 
+
+Spot check that 'Where' links to the files noted (or the folder that has them). You might not have access to all -- I usually check one very closely and assume the best if other Where DataCode Live files for that person look similar (that is I don't ask for ask for access to everything, but you should ask for access to the methods, git etc. for at least one project per person). 
+
+Good examples of Where DataCode Live
+
+Dan's 'Hysteranthy' file (though it needs to be archived)
+https://docs.google.com/document/d/1qHr2lG9mSgwSxAZ45E9IggaBjO60xIXA89OymmIPBXI/edit
+
+Here's one with the archiving done (Budburst Experiment 2015):
+https://docs.google.com/document/d/1-OQNbE7UW1EqvIsJeqkI09LTD3DxFSElmq0hPinahns/edit
+
+Note that many won't be this far along!
+
+
+<><><><><><><><><><><><><><><><><>
+<> Notes from Jan 2021 review <>
+<><><><><><><><><><><><><><><><><>
+
+DONE:
+- Dan's files
+- Cat's files
+- Ailene's files
+- Deirdre's files
+- Darwin's files
+
+NEED to review
+- Mira will check
+	- Vitis RMI Phenology
+- Geoff will check:
+	- bcvin
+
+
+NEEDs work
+- OSPREE (Lizzie emailed Ailene, then Lizzie should do it)
+- CommonGarden (Lizzie emailed Dan: Could you work with Cat to update the CommonGarden one (https://docs.google.com/document/d/1kl6NvOuaoJQz4yKie5f2hch03kyiTrwbsy-E9K_c0XA/edit) in the next 2-3 weeks and let me know when it's done?)
+- Winegrape Projections (Lizzie and Nacho)
+- Vitis Traits-Phenology Study 2015, 2016 (ugh) 
+- Deirdre's files (note below, Lizzie emailed)
+
+
+<><><><>
+EMAILS (5 January 2020):
+<><><><>
+Hi Deirdre,
+
+I am belatedly doing WDC Live. You are managing a lot and doing it well! But I do have some things we should do to keep things tidy and not lose any files. 
+
+For TreeTraits 2015 -- do you have all those files on the W drive (under Data and Code)? If not I think now is the time to pull them all (you can ask Cat for help) and get them on midge or elsewhere.
+
+For Synchrony 2018 -- can you provide some detail on what this is? I think just copied from Heather's stuff? Or different? Where is the new data you're scraping etc.?
+
+For pheno_BC -- a lot of the links I tried just led to a 404 error. Can you check them all closely?
+
+Ditto W drive question for Budchill Experiment 2016
+
+All the best,
+Lizzie
+
+<><><>
+Hi Darwin,
+
+I am belatedly doing WDC Live.
+
+Your winegrape one looks pretty good and you should be able to close it out this year (whoo-hoo). But I think you do need to break the Coexistence in BC Forests into two files
+
+Coexistence in BC Forests Lab Experiment
+
+Coexistence in BC Forests Observational study (light stuff can go here)
+
+Or something like that so you can more clearly break out your methods etc. (for example right now it's not clear where the methods for observational work from last year is, or where the methods to the experiment are). Please update this in the next 3 weeks and let me know when you have. 
+
+Be sure to include a data of public archiving for each. I am not sure why it's NA now, but it shouldn't be. You can refer to the lab's DMP for details/info.
+
+All the best,
+Lizzie
+
+<><><>
+
