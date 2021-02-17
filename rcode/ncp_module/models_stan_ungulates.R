@@ -1,6 +1,8 @@
 ### Running through different models to better understand NCPs and also how to use the Stan model blocks
 # Started by Cat on 26 January 2021
 
+## For real working example of a 3-level hierarchical model using NCPs please see ospree/analyses/ranges/model_stanforranges.R and ospree/analyses/ranges/stan/nointer_3levelwpop_force&photo_ncp.stan
+
 ### For more information from Stan users manual follow this link: https://mc-stan.org/docs/2_18/stan-users-guide/reparameterization-section.html
 
 ### Simulation Question:
