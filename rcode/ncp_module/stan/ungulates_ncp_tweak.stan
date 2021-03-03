@@ -72,15 +72,6 @@ model {
 	      
         mu_a_sp ~ normal(300, 20);
         sigma_a_sp ~ normal(0, 20);
-
-        mu_b_canadian_sp ~ normal(0, 50);
-        sigma_b_canadian_sp ~ normal(0, 20);
-        
-        mu_b_herb_sp ~ normal(0, 30);
-        sigma_b_herb_sp ~ normal(0, 10);
-        
-        mu_b_ch_sp ~ normal(0, 10);
-	      sigma_b_ch_sp ~ normal(0, 5);
         
         sigma_y ~ normal(0, 10);
 	      
