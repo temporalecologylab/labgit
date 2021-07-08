@@ -126,7 +126,7 @@ for(i in 1:tempsteps){
   lines(x=rep(pos.x, 2), y=c(pos.y-sdhere, pos.y+sdhere), col=colzalpha[2])
   points(pos.x, pos.y, cex=cexhere, pch=19, col=colzalpha[2])
 }
-legend("topright", pch=c(19, 19), col=c(colzalpha[2], colzalpha[1]), legend=c("Using logged variables", "Simple linear regression"),
+legend("topright", pch=c(19, 19), col=c(colzalpha[1], colzalpha[2]),legend=c("Linear (untransformed)", "Non-linear (logged)"),
    cex=1, bty="n")
 plot(x=NULL,y=NULL, xlim=c(90, 310), ylim=c(-6.6, 0.1), yaxt="n",
      ylab=expression(paste("Estimated sensitivity"), sep=""),
