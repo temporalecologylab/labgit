@@ -1,0 +1,212 @@
+Started 5 Jan 2020
+Started by Lizzie
+
+See below for an emailed example of what I assigned people in November 2020
+
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+<> How to review/check Where DataCode Live (WDC Live) files <>
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+
+There are two main goals when checking:
+(1) Try to answer "Could you re-do the analysis based on what you see there? (Try to decide this within 5-10 minutes of checking)" ... if you're fairly sure the answer is no, then write the person who did the file, ask for changes, then check again. 
+(2) Make sure data gets archived. 
+
+So, when reviewing:
+Highlight to Lizzie anything that needs to be archived. 
+
+Make sure there are methods files, datafiles and depending on where the analysis is at, analysis files. 
+
+Spot check that 'Where' links to the files noted (or the folder that has them). You might not have access to all -- I usually check one very closely and assume the best if other Where DataCode Live files for that person look similar (that is I don't ask for ask for access to everything, but you should ask for access to the methods, git etc. for at least one project per person). 
+
+Good examples of Where DataCode Live
+
+Dan's 'Hysteranthy' file (though it needs to be archived)
+https://docs.google.com/document/d/1qHr2lG9mSgwSxAZ45E9IggaBjO60xIXA89OymmIPBXI/edit
+
+Here's one with the archiving done (Budburst Experiment 2015):
+https://docs.google.com/document/d/1-OQNbE7UW1EqvIsJeqkI09LTD3DxFSElmq0hPinahns/edit
+
+Note that many won't be this far along!
+
+
+<><><><><><><><><><><><><><><><><>
+<> Notes from Jan 2021 review <>
+<><><><><><><><><><><><><><><><><>
+
+DONE:
+- Dan's files
+- Cat's files
+- Ailene's files
+- Deirdre's files -- almost (see March 2021 emails)
+- Darwin's files -- almost (see March 2021 emails)
+- bcvin_labData 
+- most vin files 
+- commongarden
+
+Summer 2021 work:
+- Vassal Annual Phenology Data (Mira and Tolu will work on!)
+
+
+NEEDs work
+- OSPREE (Lizzie emailed Ailene, then Lizzie should do more!)
+- Winegrape Projections (Lizzie and Nacho, see email from Ben Cook)
+- Vitis Traits-Phenology Study 2015, 2016 (ugh) 
+- Deirdre's files (note below, Lizzie emailed again March 2021)
+- Darwin's coexistence files
+
+
+<><><><>
+EMAILS (9 March 2021):
+<><><><>
+
+To Ailene and Cat:
+
+(1) Can we update this file:
+https://github.com/lizzieinvancouver/ospree/blob/master/notes/dailyclimatedata.txt
+on MASTER to specifically state:
+
+"In Ettinger et al. 2020 (budburst ms) we used E-OBS version XX (?which one)? and Livneh (??) climate data.
+
+For work on OSPREE data after we are -- as of XX date -- using E-OBS version XX (?which one)? and Princteon (??) climate data."
+
+(2) Do we have a file listing out models used in budburst ms? I might add that if we do.
+
+(3) Do we also have a file listing out for budburst ms what code links to what figures?
+
+(4) Any other overview or informative budburst ms files you think I should point to.
+
+<><><>
+Deirdre:
+
+(1) We published our meta-analytic data, so your synchrony WDC
+https://docs.google.com/document/d/1dPcrpksj19xUTPahnc86Mm67WrroINFQLexSjrCpelQ/edit
+*needs a date of public archiving*
+
+I do suggest you add some info under a Notes section at the bottom on what you can make public ... for example, we know you can't make much of the Thackery data public. And is Cohen's data published or not? Anything we extracted or received from Senior, Tucker etc. should all be public. It might be helpful to see how we handled NECTAR?
+
+https://knb.ecoinformatics.org/view/nceas.988.17
+
+Though we can discuss in the end. This will take a little thought/discussion so notes for now should suffice.
+
+(2) I will forward you some tree traits info you should file and add to your tree traits WDC. Basically two years ago Dan Flynn submitted all the HF Tree traits data to HF's archiving ... we did NOT publish it in the end, but it's all stored offline and ready to go... 
+
+(3) Did we publish bud chill? (If not, what is current status?)
+
+
+<><><>
+Darwin:
+
+Okay -- they look pretty good for now. Can you check your goal here though?
+
+https://docs.google.com/document/d/1kH4FXQ0Ex5QQf1QtsquWObKTTHlqZ0iMVXy8P1QJaPA/edit
+
+I think it should be "using observational field data"
+
+Please double-check my edits to the goal here:
+https://docs.google.com/document/d/1M7jAWDQ6nwO3MHi4qnHgdQ4XXwYoF984bKuQW1rea9g/edit
+
+As you're working on your experiment I recommend updating this! Maybe include your code to develop and plot test data?
+
+When time allows you should also update the observational file to specify your 2019 versus 2020 data. Speaking of which, do you have your 2020 data transcribed? If not, let's discuss, as you should have them entered and lightly analysed before field work this year.
+
+
+<><><><>
+EMAILS (5 January 2021):
+<><><><>
+Hi Deirdre,
+
+I am belatedly doing WDC Live. You are managing a lot and doing it well! But I do have some things we should do to keep things tidy and not lose any files. 
+
+For TreeTraits 2015 -- do you have all those files on the W drive (under Data and Code)? If not I think now is the time to pull them all (you can ask Cat for help) and get them on midge or elsewhere.
+
+For Synchrony 2018 -- can you provide some detail on what this is? I think just copied from Heather's stuff? Or different? Where is the new data you're scraping etc.?
+
+For pheno_BC -- a lot of the links I tried just led to a 404 error. Can you check them all closely?
+
+Ditto W drive question for Budchill Experiment 2016
+
+All the best,
+Lizzie
+
+And she replied ...
+8 Jan 2021
+
+Hi Lizzie,
+
+I looked into these issues and hopefully have made the WDC clearer.
+
+Cat did send me all the trait data that is on the WDrive awhile ago. I have added what I have to midge under home/data/deirdre/WDrive_traits and updated the WDC.
+
+For the Budchill Experiment 2016, the only files I have are from the budchill repo. It seems like that contains every file listed in the WDC in addition to a lot of other files on analyses etc.  Is there likely more files associated with the Budchill Experiment 2016 on the WDrive that I would not have? I have also added what I have to midge, home/data/deirdre/budchill, but I can move it if you think there is a more appropriate folder.
+
+Synchrony 2018 is my synchrony repo. I have renamed it to match what I have on GitHub and flushed it out a bit more to hopefully make it clearer where the data is. But I can do more if you think it is needed. 
+
+I also got the 404 error message for the first two links of the phenobarbitals_bc WDC, which I have now fixed. If you continue to have problems with the links, I can look into it further, but the rest worked for me. 
+
+Best,
+
+Deirdre 
+
+
+<><><>
+Hi Darwin,
+
+I am belatedly doing WDC Live.
+
+Your winegrape one looks pretty good and you should be able to close it out this year (whoo-hoo). But I think you do need to break the Coexistence in BC Forests into two files
+
+Coexistence in BC Forests Lab Experiment
+
+Coexistence in BC Forests Observational study (light stuff can go here)
+
+Or something like that so you can more clearly break out your methods etc. (for example right now it's not clear where the methods for observational work from last year is, or where the methods to the experiment are). Please update this in the next 3 weeks and let me know when you have. 
+
+Be sure to include a data of public archiving for each. I am not sure why it's NA now, but it shouldn't be. You can refer to the lab's DMP for details/info.
+
+All the best,
+Lizzie
+
+<><><>
+
+
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+<> Email on Where DataCode Live from Nov 10 2021 <>
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+
+Subject: Where datacode live!
+
+Hi all,
+
+As mentioned last week we'll be doing our annual review of our where datacode live files over this next month. I have reviewed files and divvied them up (not shown below are my files) along with deadlines. If you don't like your deadline, you can swap with someone if they agree -- please let me know.
+
+*Deadline: 23 November*
+
+Mira — Please update: Vin/Vassal Annual Phenology Data, proffer help to Faith
+https://docs.google.com/document/d/1aVNPQH_RSgdonzbQp6y2usfxh6pMVuSn4UMzT8yuIN8/edit
+
+Deirdre — Please update your five files.
+
+*Deadline: 30 November*
+
+Darwin — Please update the two you have and consider adding one for your experiment (good time to start organizing for it?)
+
+Geoff — Please update Vin/Vitis RMI Phenology (I know this is semi-new to you, but trying to spread out the work)
+https://docs.google.com/document/d/19PKuohsITmDrjfZu4v3Ut_FA-g4JQS02sxBYMB5-psA/edit
+
+Faith — Please update Vin/bcvin (again, trying to spread out the work)
+https://drive.google.com/drive/folders/0B78cmbt261mmUHNlcjd0TG1vSHM
+
+*Deadline: 7 December*
+
+Dan — Please update three files and add one for new herbaria project and check with Cat on what is up with common garden data (if we don’t have one, we need one!)
+
+Cat — Please update the two files and check with Dan on what is up with common garden data (if we don’t have one, we need one!)
+
+You need to check all relevant files are mentioned and are filed somewhere reasonable, check all the links and locations are accurate. Also, this is when to clean repos and file organization in general! If (and this has never happened) you see NO issues, you still need to update the date. More info here:
+
+https://github.com/temporalecologylab/labgit/blob/master/datacodemgmt/tempeco_DMP.pdf
+
+https://github.com/temporalecologylab/labgit/tree/master/datacodemgmt/wheredatacodelive
+
+Thanks!
+Lizzie 

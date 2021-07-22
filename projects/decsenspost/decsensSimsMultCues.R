@@ -130,7 +130,7 @@ for(i in 1:length(unique(mean.sims$degwarm))){
   lines(x=rep(pos.x, 2), y=c(pos.y-sdhere, pos.y+sdhere), col="salmon")
   points(pos.x, pos.y, cex=cexhere, pch=19, col="salmon")
   }
-legend("bottomright", pch=c(19, 19), col=c( "salmon","darkblue"), legend=c("Using logged variables","Simple linear regression"),
+legend("bottomright", pch=c(19, 19), col=c("darkblue","salmon"), legend=c("Linear (untransformed)", "Non-linear (logged)"),
    cex=cextext, bty="n")
 plot(x=NULL,y=NULL, xlim=c(-0.5, 8), ylim=c(-0.1, 1),mgp=c(1.5,.5,0), tck=-.01,xaxs="i",yaxs = "i",
      ylab="Proportion years when chilling is met",
@@ -283,7 +283,7 @@ for(i in 1:length(unique(mean.simsphoto$degwarm))){
   lines(x=rep(pos.x, 2), y=c(pos.y-sdhere, pos.y+sdhere), col="salmon")
   points(pos.x, pos.y, cex=cexhere, pch=19, col="salmon")
   }
-legend("bottomright", pch=c(19, 19), col=c( "salmon","darkblue"), legend=c("Using logged variables","Simple linear regression"),
+legend("bottomright", pch=c(19, 19), col=c("darkblue","salmon"), legend=c("Linear (untransformed)", "Non-linear (logged)"),
    cex=cextext, bty="n")
 plot(x=NULL,y=NULL, xlim=c(-0.5, (max(degreez)+ 0.5)), ylim=c(-0.1, (max(mean.simsphoto$propyrsphoto)+0.1)),
      mgp=c(1.5,.5,0), tck=-.01,xaxs="i",yaxs = "i",
@@ -371,7 +371,7 @@ for(i in 1:length(unique(mean.sims$degwarm))){
   lines(x=rep(pos.x, 2), y=c(pos.y-sdhere, pos.y+sdhere), col="salmon")
   points(pos.x, pos.y, cex=cexhere, pch=19, col="salmon")
   }
-legend("bottomright", pch=c(19, 19), col=c("salmon","darkblue"), legend=c("Using logged variables","Simple linear regression"),
+legend("bottomright", pch=c(19, 19), col=c("darkblue","salmon"), legend=c("Linear (untransformed)", "Non-linear (logged)"),
    cex=cexhere, bty="n")
 
 
@@ -393,7 +393,7 @@ for(i in 1:length(unique(mean.simsphoto$degwarm))){
   lines(x=rep(pos.x, 2), y=c(pos.y-sdhere, pos.y+sdhere), col="salmon")
   points(pos.x, pos.y, cex=cexhere, pch=19, col="salmon")
   }
-legend("bottomright", pch=c(19, 19), col=c( "salmon","darkblue"), legend=c("Using logged variables","Simple linear regression"),
+legend("bottomright", pch=c(19, 19), col=c("darkblue","salmon"), legend=c("Linear (untransformed)", "Non-linear (logged)"),
    cex=cexhere, bty="n")
 
 plot(x=NULL,y=NULL, xlim=c(-0.5, (max(degreez) + 0.5)), ylim=c(-0.1, 1),mgp=c(1.5,.5,0), tck=-.01,xaxs="i",yaxs = "i",

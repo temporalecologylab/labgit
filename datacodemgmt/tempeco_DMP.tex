@@ -7,6 +7,7 @@
 \usepackage{epstopdf}
 \usepackage{amsmath,latexsym,amssymb,wasysym}
 \usepackage{natbib}
+\usepackage[obeyspaces]{url}
 \usepackage{hyperref}
 
 \usepackage{fancyhdr}
@@ -107,7 +108,7 @@ Data often need cleaning. For example, species names are mis-spelled or commas a
 \label{labstorage}
 Data in the lab may be collected on paper first or immediately into a computer. You should note in your metadata the initial mode of collection and store all paper datasheets in the appropriate place in the lab. Following the lab's backup storage policy you should back up all lab related research files daily or weekly. 
 
-All your data should be saved to the Wolkovich Lab server (midge) backup section, which is regularly backed-up. If you choose to leave data on your personal machine you \emph{must have those data on two backup systems (e.g., your own daily/weekly backup and GitHub).}\footnote{GitHub is not a backup service so it should only ever (ever!) be used as such in addition to a real backup service such as Backblaze or Time Machine used with multiple hard drives.} Please update files instead of keeping versions of them with different names. Ideally data on midge will also be kept in a \verb|csv| or \verb|txt| form on GitHub or another versioning repository. Code can be kept on Github only if this is clearly documented. For most projects, you will need to put data on midge once after collecting it and from there can modify versions of it in GitHub. 
+All your data should be saved to the Wolkovich Lab server (midge) backup section (that's \path{/home/data}, that's usually \path{cd ..//data} from where you start, for example, I start in \path{/home/lizzie}), which is regularly backed-up. If you choose to leave data on your personal machine you \emph{must have those data on two backup systems (e.g., your own daily/weekly backup and GitHub).}\footnote{GitHub is not a backup service so it should only ever (ever!) be used as such in addition to a real backup service such as Backblaze or Time Machine used with multiple hard drives (see databackuplab.txt in the labgit).} Please update files instead of keeping versions of them with different names. Ideally data on midge will also be kept in a \verb|csv| or \verb|txt| form on GitHub or another versioning repository. Code can be kept on Github only if this is clearly documented. For most projects, you will need to put data on midge once after collecting it and from there can modify versions of it in GitHub. 
 
 You can and should delete data files off the lab server once they are publicly archived. Some files that are too large or otherwise not possible to archive (e.g., image files or files shared by growers) can stay on the server indefinitely, check with Lizzie. 
 
