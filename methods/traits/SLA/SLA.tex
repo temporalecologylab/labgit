@@ -1,0 +1,78 @@
+\documentclass[11pt]{article}
+\usepackage[left=1in,right=1in,top=1.0in,bottom=1.0in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{grffile}
+\usepackage{ textcomp }
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{booktabs}
+\usepackage[colorlinks=true]{hyperref}
+\usepackage{ gensymb }
+
+\begin{document}
+\renewcommand{\familydefault}{\sfdefault}
+\sffamily
+\setlength{\parskip}{2 mm}
+\flushleft
+
+\section*{SLA}
+
+Specific leaf area (SLA) is the area of a fresh leaf, divided by its dry mass. SLA is a key measure of the investment a plant has made in this organ, strongly relating to traits such as percent nitrogen, leaf lifespan, and maximum photosynthetic capacity. In general, high SLA (thinner and/or less dense leaves) is related to a 'live fast, die young' strategy, with minimal investment in anti-herbivore structures or leaf toughness, and relatively higher percent nitrogen. As a much of a leaf's nitrogen is allocated to C-fixing enzyme RuBisCo, high percent nitrogen is thus strongly predictive of high photosynthetic capacity.
+
+
+The standard methodology for SLA measurement is detailed \href{http://www.nucleodiversus.org/index.php?mod=caracter&id=17}{on the DiverSus webpage} as well as in Perez-Harguindeguy et al. (2013). 
+
+
+
+\textbf{Equipment}
+\begin{itemize}
+\item{Cooler with ice packs}
+\item{Sealable plastic bags}
+\item{Paper towels and water}
+\item{Transparency paper}
+\item{Forceps}
+\item{Scanner or LI-3100 leaf area meter}
+\item{Ruler}
+\item{Paper coin envelopes}
+\end{itemize}
+
+The standard method is briefly summarized here. The most critical element is accurate measurement of leaf area while the leaf is fresh. For sampling from woody plant species in the field, it is usually necessary to keep leaves both cool and moist. 
+
+The number of leaves sampled per individual depends on the study design, but typically 3-5 leaves from one individual are sampled. For very large simple leaves (e.g., \textit{Acer pensylvanicum}) or large compound leaves (\textit{Fraxinus americana}), sample only a single leaf. Choose fully-expanded, undamaged leaves if possible, from a consistent location on the plant. Meaning, if sampling with pole pruners from the ground, choose leaves in the middle of the canopy, since you will not be able to sample from the top of the canopy consistently; full-sun leaves can have very different properties from shade leaves.
+
+Immediately place leaves in a labeled sealable plastic bag, placing a damp paper towel inside if neccessary, and place in a cooler with ice packs. Aim to finish sampling and measure area within several hours of sampling. 
+
+Back in the lab, keep samples cool in a refrigerator if possible. Take out a small batch of leaves, and prepare "sandwiches" of leaf samples between transparency paper. Remove the petiole for consistency with prior work in this lab. See notes on the DiverSus page regarding arguments for and against removing the petiole. For compound leaves, remove the rachis up to the first set of leaflets, but keep the rachis otherwise. For large leaves, it may be necessary to cut the leaf to fit across multiple pages. Use forceps to arrange leaves so that there are no overlapping parts; keep the top side of leaves down for consistency.
+
+Prepared "sandwiches" are then scanned in the flat bed scanner. Use standard scanner software (built in scanner program on Mac) to save images as .jpeg, using the full image at 300 dpi. Greater pixel density results in overly large images. Save as color images, for possible use later in estimating herbivory damage, disease, or chlorophyll. Make sure to include the transparent ruler in each image. Even if images are always at the same dpi and size, it is good practice to include a reference scale.
+
+Typically leaves are then weighed for fresh mass before placing in a labeled envelope. If possible, immediately oven-dry at 60\degree C for 48 h.
+
+\section*{Area measurement}
+
+Measuring leaf area is relatively simple using the free software \href{https://imagej.nih.gov/ij/download.html}{ImageJ}.
+
+The following borrows from \href{http://www.zoology.ubc.ca/~rieseberg/RiesebergResources/wp-content/uploads/2012/01/Leaf-Image-Protocol_NKraft.pdf}{Nathan Kraft's} description of his standard protocol
+
+See another version of this standard protocol on the \href{http://prometheuswiki.publish.csiro.au/tiki-index.php?%20page=Measuring+leaf+perimeter+and+leaf+area}{PrometheusWiki}.
+
+Setting the scale
+\begin{enumerate}
+\item{Find the ruler in the image. If multiple rulers are in the image, it is best to pickthe one closest to the leaf itself. Use the magnifying glass to zoom in until 1 cmof the ruler is quite large on the image.}\item{Choose the straight line tool and draw a line 1 cm long on the image.}\item{Go to "Analyze \textgreater Set Scale" . A dialog box will pop up- you'll need to specify that the line is 1 cm long. This will tell the program how many pixels are in a cm- should be in the vicninity of 60-70 pixels per inch, though it will vary with how zoomed in the lens of the camera was.}\item{Zoom out to the original scale with "Image\textgreater Zoom \textgreater Original Scale"}
+\end{enumerate}
+
+Prepping the image\begin{enumerate}
+\item{If there is a lot of space around the white board, or if the leaf is really small on theimage, crop the image down to just a leaf against a white background, as much as you can. Use the rectangular selection tool to draw a box, then choose "Image\textgreater Crop".}\item{Convert the image to binary. Choose "Process \textgreater Binary\textgreater Make Binary". This should give you a black leaf outline on a white background. If you somehow got a white image on a black background, invert it by going to "Edit\textgreater Invert"}\item{Fill any breaks in the edge of the leaf due to the flash using the paintbrush tool. It is best to zoom in tight on the area to be corrected first, then zoom out when you are done.}\item{Crop of the petiole if there is one. Do this by selecting an area of the image that includes all of the leaf blade but none of the petiole, using either the rectangular selection tool or the polygon selection tool}
+\end{enumerate}
+
+Analyze the area\begin{enumerate}
+\item{Go to Analyze\textgreater Analyze particles. In the box that pops up, set the Size (first box)to be .01 or .05- infinity. Size is left too small you'll measure the size of lots of specks on the image, which is annoying. Make sure that "show" is set to masks, and that "display results" and "clear results" are checked.}\item{If there are gaps in the leaf outline due to the flash or errors in how the image was thresholded, make sure that "fill holes" is checked.}\item{Click "OK" and two windows should pop. One shows the area (in square cm if you set the scale properly) of all particles in the image that the algorithm found and the other shows a mask, or the shape of what the computer calculated the area of. Make sure that the mask looks right (no holes in the area that shouldn't be there), and then record the area of the leaf shape in the excel spreadsheet.}
+\item{Close all of the windows associated with that leaf before you open up the next file- the cpu is unhappy if it has a lot of these large images open at once.}
+\end{enumerate}
+
+\section*{References}
+
+Perez-Harguindeguy N., Diaz S., Garnier E., Lavorel S., Poorter H., Jaureguiberry P., Bret-Harte M. S., Cornwell W. K., Craine J. M., Gurvich D. E., Urcelay C., Veneklaas E. J., Reich P. B., Poorter L., Wright I. J., Ray P., Enrico L., Pausas J. G., de Vos A. C., Buchmann N., Funes G., Quetier F., Hodgson J. G., Thompson K., Morgan H. D., ter Steege H., van der Heijden M. G. A., Sack L., Blonder B., Poschlod P., Vaieretti M. V., Conti G., Staver A. C., Aquino S., Cornelissen J. H. C. (2013) New handbook for standardised measurement of plant functional traits worldwide. Australian Journal of Botany, 61, 167-234. http://dx.doi.org/10.1071/BT12225
+
+\end{document}
