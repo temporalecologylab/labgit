@@ -9,6 +9,7 @@ nhemi <- c(1:365)
 nhemidate <- as.Date(paste(nhemi, 2002, sep="-"), format="%j-%Y") # I picked a random non-leap year
 
 # Now, we start counting on 1 July for southern hemisphere
+nhemidate[182]
 shemi <- c(185:365, 1:184)
 
 # Make a look up table
