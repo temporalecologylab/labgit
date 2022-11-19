@@ -1,7 +1,10 @@
 *.RData
 *.DS_Store
 *.DS_store
+*.Rapp.history
+*.Rhistory
 
-.docx
-.ppt
-.pptx
+*.key
+*.docx
+*.ppt
+*.pptx
