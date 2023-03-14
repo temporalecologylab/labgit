@@ -1,0 +1,61 @@
+Started 14 mars 2023
+
+
+<><><><><><><><>
+Emails from Neil Pederson
+13 March 2023
+
+
+ Ah, gotcha, Lizzie.
+
+ So, um, it depends. Ruben is generally correct, but we do not core parallel to the slope anymore if we are coring for ecology and I am not convinced they need to be on the opposite site of the tree anymore. I would core the faster side of the tree and then a slower side of the tree or something approaching that concept. We start on the W, NW, or N side of the tree because you are more likely to pick up a frost ring on that side of the tree, NW being best in the Northern Hemisphere. Then we move 90-180 degrees away, though the topography, shrubbery, and health of the tree, avoiding rot and such, dictate the second core when we take a second core.
+
+Anyhow, two parallel cores is for reconstructing climate. We are going for a larger volume of trees these days with a relatively small crew, so we take second cores only with species we know are difficult to cross date (mostly diffuse porous species) and old individual trees so we can maximize its age. We play a second by ear outside of diffuse porous species.
+
+ A second core is best if you have the time and resources to process everything in the field and lab. I was a strict adherent to that approach. We have had to modify it. Statistically, however, tree replication is better than core replication. 
+
+ Fro straw transport, I like these simply cuz they look cool and I can see inside the tube: https://www.engineersupply.com/Alvin-MT25-Ice-Tubes-Storage-and-Transport-Tube.aspx?VariantId=dd1eb68e-5208-42d0-bf70-123fd272c97b&gclid=Cj0KCQjwk7ugBhDIARIsAGuvgPa9AOIYHCOFD7L76k4V68YvHn54JHftxt_QE7Lb52w0w7QGz2qcn0waAidYEALw_wcB
+
+People use things like this: https://www.amazon.com/XX-Large-Extendable-Shoulder-Documents-Blueprints/dp/B082SJLTVH/ref=asc_df_B082SJLTVH/?tag=hyprod-20&linkCode=df0&hvadid=416900514238&hvpos=&hvnetw=g&hvrand=10973755662971343977&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001857&hvtargid=pla-885368812316&psc=1&tag=&ref=&adgrpid=96811481431&hvpone=&hvptwo=&hvadid=416900514238&hvpos=&hvnetw=g&hvrand=10973755662971343977&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001857&hvtargid=pla-885368812316
+
+Anything like that is fine.
+
+ Straws for cores: some people use Dunkin or McDonald straws. Taking them or asking for them. We buy. The good company went out of business. I’ll chat with Laura, the lead tech on our project. She has found good straws. They are colorful and harder to loose in the forest. I’ll pass that info along to you.
+
+ Neil
+
+...
+
+ OH! 2-thread borers only!!! https://www.forestry-suppliers.com/p/63331/13981/haglöf-2-thread-increment-borers ( * - the 2-thread link I sent was for a 4.3 mm diameter borer. You want the 5.15 mm diameter borer.)
+
+ The 3-thread bits SUCK to back out of trees, but especially hardwoods.
+
+....
+
+ These are the straws we use now. https://www.perfectstix.com/20-neon-assorted-colors-straight-cut-straws-box-of-500ct.html - Inner diameter of the straw has to be a decent bit larger than 5.15 mm*
+
+ People seal the end of the straws with small staplers, tape, or, as I do, by crimping.
+
+
+ Neil
+
+<><><><><><><><>
+
+From Ruben (Delgado Manzanedo Rubén <ruben.delgadomanzanedo@usys.ethz.ch>)
+13 march 2023
+
+Hi,
+
+if they are less than 10 years old and broadleaves I would strongly recommend cookies (I would ALWAYS recommend cookies, dendro or not XD). For so short time series probably is totally fine with cores too, but it would just make it easier.
+
+-About the cookie sampling: all individuals, at 1.30m height (or 0.3m if you think they took some time to get there / were planted as seeds). Transportation and preparation very easy. 
+
+-About cores: 2 cores per individual, 1.30m height, transversal to the slope, if there is any, if no slope, consistent orientation for all. Cores from oposite sides. Transportation and preparation: need some core tubes and mounters, these can be easily improvised/acquire from a local carpenter.
+
+Happy to connect when you chat with Neil and talk about it in more detail. 
+
+(None of the species is present in the ITRDB, 1 record of other Alnus (alaska), and multiple species of Betula, no record for cherry, I have no idea how easy cherry would be for dendro but the cookies would be gorgeous!)
+
+
+R
+
