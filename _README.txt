@@ -9,3 +9,6 @@ What goes in here?
 What goes elsewhere?
 - Methods! We need a lab methods location. 
 - Private info. Anything with passwords or info we should not share should be put elsewhere.
+
+What went where?
+- Installing Adobe for undergrad researchers in worlklearn_info/
