@@ -1,0 +1,16 @@
+Path to download Adobe Creative Cloud on a personal computer 
+
+1. Follow instructions from the following website:
+https://ubc.service-now.com/kb_view.do?sysparm_article=KB0017459
+1.1. Go to the section “Step-By-Step: Install & Activate Adobe Software (Creative Cloud)”
+1.1.1. Go to the section “Personal Computer”, and choose whether you have a Mac or PC
+
+*I had problems because Adobe CC was already downloaded on my computer. Deleting it and reinstalling it worked for me. Make sure that the proper UBC account is the one linked to your account.
+
+Additional notes:
+Adobe CC has been installed on the lab's UBC Dell laptop. Students can login to their account once they have activated their adobe license on this computer.
+
+
+*We can install Lightroom classic, but not the cloud-based Lightroom. 
+
+**Important: when logging into Adobe CC, when prompted for an email just enter ubc.ca. Not a real email address.
