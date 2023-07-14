@@ -1,0 +1,51 @@
+Started 20 January 2022
+Submitted on 20 January 2022
+
+
+Job title:
+WL S22 WLIURA in the Temporal Ecology Lab
+
+
+Title of Research Project
+Winegrape and germination phenology: Documenting and communicating climate change impacts
+
+---------------------
+The Temporal Ecology Lab focuses on how global climate change is altering plants and plant communities locally, regionally and globally. Recent research in our lab has examined how climate change shifts have advanced the timing of plants' leafout and flowering across diverse ecosystems. 
+
+This summer work in this research project position will focus on documenting changes in the phenology (phenology is the timing of recurring life-history events, i.e., leafout, flowering) of two plant groups: forest trees (seed germination) and winegrape varieties in BC. Work will be focused around collating global data on seed germination and winegrape phenology, alongside communicating winegrape results to growers via factsheets and a website. This work will serve towards our larger goals of understanding and predicting plant phenology across regions in the past and future and how foresters and growers can adapt. Additionally, the lab collaboratively works on projects to understand forest coexistence in BC (through lab experiments, field surveys) and phenological asynchrony between plants and animals, thus the student will also have opportunities to learn about and spend some time on these projects as well. 
+
+<><><><><><>
+Student Responsibilities * 
+Please provide a description of the different tasks that the student will be performing to advance the research project. 
+Who will be the student’s supervisor? Please describe the level of interaction and ongoing support the student will receive.
+
+Student Responsibilities: The student’s main responsibilities will include:
+
+1. Accompanying the lab (graduate students, postdocs and PI Wolkovich) on trips to collect data in the field in BC (likely locations: Okanagan Valley and Smithers)
+2. Learning the phenological stages (i.e., leafout, flowering, onset of ripening, called 'veraison') of winegrapes (after training and with close supervision)
+3. Learning and implementing basic data quality standards for entering and cleaning data, from both long-term winegrape records, and from peer-reviewed, forestry and agricultural literatures on seed germination
+4. Help develop factsheets and other mechanisms (website, videos, animation etc.) to communicate results to winegrowers, with close supervision of a postdoc. 
+5. Communicating their work and findings via the lab's blog and website. 
+
+Depending on the students interests and skill development, additional responsibilities could include: 
+
+6. Basic analyses of data (the lab has a history of training interested undergraduates in the R programming language, so no previous skills are required for this, just interest).
+7. Work on analysis of common garden studies of plant phenology and traits, including potential field work in northeast (highly depending on Covid situation and lab funds for travel; not at all required for the position) 
+
+Supervision: 
+
+The student will be directly supervised by a graduate student and a postdoctoral researcher, both in the field and lab on data collection trips (these are Covid restrictions dependent) and while working in-person or remotely (depending on student desires) to meet data quality standards. These immediate supervisors will provide an active and engaging environment for the WLIURA student and will meet with the student regularly (often every day depending on the activity, but at least once/week otherwise) and will be easily available to answer questions as they come up. The principle investigator (Dr. Wolkovich) will also meet with the WLIURA student throughout the term (at the start and end of each term and otherwise every two weeks or as needed, whichever is more frequent; she maintains open slots in her schedule each week for students). 
+
+The goals of the meetings with Dr. Wolkovich are multiple and include: (1) to discuss the student’s and lab’s current goals (making sure the student understands the scientific aims and reasons for all tasks), (2) check-in regarding training, review methods as needed, and provide feedback to the student as work proceeds, (3) handle any issues that come up and require discussion/supervision and, (4) at the end of the WLIURA period discuss continuing opportunities in the lab and the student researcher’s longer term (e.g., career) goals. Additionally Dr. Wolkovich will be available for informal discussion and mentoring during field and lab work periods, and these periods provide an opportunity for Dr. Wolkovich, graduate students, postdocs and work-learn student researchers to work alongside one another in the lab and field.
+
+The WLIURA student will be invited to participate in lab meeting and other lab activities, such as journal discussions. Through this position, the student will have the opportunity to better understand the process of conducting ecological research, including experimental design, data collection and archiving, and analysis, while also building diverse professional connections and skills through interactions with researchers, vineyard managers, and national park employees at field sites.
+
+In summers 2020-2021 we had twice per month outdoor (socially distanced) lab meetings as field work was limited (though in 2021, a WLIURA student joined field work in Smithers, and WL students also went to the Okanagan) and these provided a useful informal setting, which we will continue in 2022 if field and lab work is again curtailed (though we hope not!). A battery operated speaker phone allowed students to call in who could not attend in person (or preferred not to). We hope to return to on-campus lab meetings when possible, with remote participation always an option. 
+
+<><><><><><>
+Qualifications (WLIURA) *
+What skills/knowledge should the student possess to be successful in this job?
+
+The preferred candidate will be an undergraduate and have a basic understanding of ecology and/or physiology in plants---previous experience in a lab or field setting is helpful, though this is not required provided the student has an enthusiasm to learn. A basic background in biology with coursework at the third year or higher is preferred, but also not required.
+
+The biggest qualification for a student is enthusiasm to learn and engage with the research topic. In addition, students who would be a good fit for the position and lab will have strong organization and communication skills, be detail oriented, work well alone and in a team, be interested in building lab and field skills. Students excited about the intersection between research and social media (including photography, web design, Twitter, and other virtual as well as in-person ways to communicate results) are especially encouraged to apply. Students will gain skills in plant and phenological identification, which are important introductory skills for future work in most plant-focused ecology and physiology labs. Additionally these basic skills can be transferred to other lab and field environments.
