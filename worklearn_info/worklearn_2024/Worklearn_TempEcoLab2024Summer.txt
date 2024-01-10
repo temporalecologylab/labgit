@@ -27,7 +27,7 @@ Duties
 The student’s duties and responsibilities will include:
 
 1. Assisting the lab (PI and graduate students) in greenhouse experiment set-up and maintenance 
-2. Monitoring plant phenologies, including budburst and leaflot, and taking trait measurement on plant stress responses
+2. Monitoring plant phenologies, including budburst and leafout
 3. Learning the phenological stages (i.e., bud burst and leafout) of native woody plants (after training and with close supervision)
 4. Help clean data on seed germination and cross-reviewing other students' cleaning code
 5. Learning and implementing basic data quality standards for entering and cleaning data 
@@ -49,7 +49,7 @@ These tasks require attention, training and focus but are not overly complex, on
 
 ---------------------
 
-Qualiication
+Qualification
 
 Successful students in the past in the lab have come from a diversity of disciplines, sometimes biology, but also computer science, statistics, music, visual arts (we're always looking for good photographers!), engineering and business. The preferred candidate will be an undergraduate and have a basic understanding of ecology and/or physiology in plants---previous experience in a lab or field setting is helpful, though this is not required provided the student has an enthusiasm to learn. Training or interest in R/Python or other coding languages is a plus as we can train students in R if there is enthusiasm. 
 
