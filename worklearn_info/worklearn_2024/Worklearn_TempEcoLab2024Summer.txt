@@ -1,0 +1,112 @@
+Started 09 January 2023
+Submitted on ….
+
+<><><><><><><><>
+How to ...
+Find the Faculty and Staff Work Learn Page then open TWO links from this page:
+- CareersOnline
+- Submission guide (they used to have a 'step-by-step guide' but cannot find it this year)
+
+
+<><><><><><><><>
+Max hours per week (summer): 20 (total: 300 is max allowed)
+Administrator is Andrea Chan
+
+
+Job title:
+WL S23 Project worker for the Temporal Ecology Lab
+
+---------------------
+
+Position summary
+
+The Temporal Ecology Lab focuses on how global climate change is altering plants and plant communities locally, regionally and globally. Recent research in our lab has examined how climate change has advanced the timing of plants' leafout and flowering across diverse ecosystems. This summer work will focus on examining phenology (phenology is the timing of recurring life-history events, i.e., leafout, flowering) from long-term data on native woody plants, as well as entering data on seed germination. The laboratory is hiring undergraduate students to join the lab and directly contribute to the projects of graduate students and postdocs, as well as collaborative projects in the lab.
+
+Duties
+
+The student’s duties and responsibilities will include:
+
+1. Assisting the lab (postdoc and graduate students) in greenhouse experiment set-up and maintenance 
+2. Monitoring plant phenologies, including budburst and leaflet, and taking trait measurement on plant stress responses
+3. Learning the phenological stages (i.e., bud burst and leafout) of native woody plants (after training and with close supervision)
+4. Reviewing data on seed germination and entering it into Excel as well as cross-reviewing other students' data entry
+5. Learning and implementing basic data quality standards for entering and cleaning data 
+6. To communicate their findings and share experiences via the lab's blog and website. 
+
+Supervision
+
+The student will be directly supervised by a postdoc (and/or graduate student, depending on project), both while in the lab and working on data entry (in the lab or elsewhere, depends on student preferences). The graduate student/postdoc will provide an active and engaging environment for the work-learn student and will meet with the student regularly (sometimes every day, depending on the activity, but at least once every other week otherwise) and will be available to answer questions as they come up. The principle investigator (Dr. Wolkovich) will also meet with the Work-Learn student at the start and end of each term and otherwise every two weeks or as needed.
+
+The goals of the meetings with the direct supervisor or Dr. Wolkovich are multiple and include: (1) to discuss the Work-Learn student’s and lab’s current goals (making sure the student understands the scientific aims and reasons for all tasks), (2) check-in regarding training, review methods as needed, and provide feedback to the student as work proceeds, (3) handle any issues that come up and require discussion/supervision and, (4) at the end of the Work-Learn period discuss continuing opportunities in the lab and the student researcher’s longer term (e.g., career) goals.
+
+The Work-Learn student will be invited to participate in lab meeting and other lab activities. Through this position, the student will have the opportunity to better understand the process of conducting ecological research, including experimental design, data collection and archiving, and analysis, while also building diverse professional connections and skills through interactions with researchers and national park employees at field sites.
+
+Complexity
+
+The student is expected to learn (1) basic data entry and data cleaning standards and methods; (2) basic methods to monitor plant growth and experiment protocols. Generally a graduate student or postdoc will always be available to check and confirm any identification for data in the lab or when transcribing data.
+
+These tasks require attention, training and focus but are not overly complex, once trained. All students trained in these methods in our lab in the past have been able to master them after training, and the skills are transferrable to other lab and field activities. For all these tasks Work-Learn students will be provided with step-by-step instructions and will have constant training and supervision for the first few days of any tasks. Someone is always available to answer questions and provide additional guidance.
+
+
+
+
+---------------------
+
+Quali
+
+
+Successful students in the past in the lab have come from a diversity of disciplines, sometimes biology, but also computer science, statistics, music, visual arts (we're always looking for good photographers!), engineering and business. The preferred candidate will be an undergraduate and have a basic understanding of ecology and/or physiology in plants---previous experience in a lab or field setting is helpful, though this is not required provided the student has an enthusiasm to learn. Training or interest in R/Python or other coding languages is a plus as we can train students in R if there is enthusiasm. 
+
+The biggest qualification for a student is enthusiasm to learn and engage with the research topic. In addition, students who would be a good fit for the position and lab will have strong organization and communication skills, be detail oriented, work well alone and in a team, be interested in building lab and field skills. Students will gain skills in plant and phenological identification, which are important introductory skills for future work in most plant-focused ecology and physiology labs. Additionally these basic skills can be transferred to other lab and field environments.
+
+
+---------------------
+
+Contribution to University Community
+
+This student researcher’s role is critical to the goals of the lab, which in turn contribute to goals within the Faculty of Forestry and the larger goals of the university to meet the challenge of climate change. The Temporal Ecology Lab is especially focused on better understanding and predicting the consequences of climate change in BC and globally. The student worker will directly contribute to helping determine how woody plant phenology may be impacted by climate change and how plant phenology is shifting with warming. The lab has a history of documenting and understanding climate-change induced changes in plant leafout and performance, which continues with this project. The data produced through this work-learn experience will directly contribute to lab research, including presentation, data and manuscript publications.
+
+The Faculty, Department and lab are committed to fostering a safe, supportive and inclusive environment for all. At the Faculty level, student workers have access to support through the EDI Coordinator, the Diversity Crew, and the EDI Council (more information here: https://forestry.ubc.ca/about/our-faculty-today/initiatives/equity-diversity-inclusion/). 
+
+Within the lab, we continually work to create a safe and comfortable working environment for all. In addition to careful orientation, supervision and guidelines (see below), the lab has regular lab meetings devoted to discussions of equity and diversity issues in academia. The lab also has a 'Values & Aspirations' statement (see https://github.com/temporalecologylab/labgit/blob/master/expectations/values_aspirations.pdf), which lays out our values (e.g., Be kind, share resources, communicate effectively and fairly, engage with your imperfections) that we discuss, improve and update regularly. 
+
+
+Student Learning Components
+
+
+Orientation & training
+
+In addition to all New Employee training required by UBC, the student will benefit from a suite of additional orientations by the graduate student (or postdoc) and PI (Wolkovich). These include an introduction to lab protocols (review of all taxonomic materials, the project specific plant-guide (taxonomy and phenology guides), basic measuring devices, field tools, computer software), an overview of the lab’s safety protocols while in the lab and field, as well as general lab and field ‘good practices,’ and an overview of the research project and related biological concepts. These orientations are spread out over the first days to maximize student uptake, but students can always ask questions later as they come up (as the supervisors and PI are very often available) or in regularly scheduled meetings. Additionally, the lab maintains a suite of protocols that review the step-by-step tasks required for the various methods, and the lab runs ‘scrum’ once a week when general questions are posed and answered by all in the lab.
+
+
+Feedback & on-going support: 
+The postdoc or graduate student will work alongside the student (and at times PI) in the field and lab, who is always happy to answer questions and provide support. Through regular meetings (at least every two weeks) with the supervisor or PI, the student will be provided with frequent constructive feedback, encouragement and opportunities to communicate any challenges or areas in which additional support is needed to ensure the student’s success. In addition to regular meetings and interaction while working together in the field, the PI, graduate student, or postdoc are generally always available to answer questions as they come up. The group maintains an open and accessible atmosphere that strives to encourage questions, and informal opportunities for conversations and feedback. We encourage students to use their time in the lab as an opportunity to reflect on what tasks they enjoy or dislike, how they feel in the research environment, and use this to guide their perspectives on future career pathways.
+
+Mentorship: 
+
+Direct mentorship comes from the graduate student (and/or postdoc) and PI Wolkovich, who will oversee the student researchers in the lab, field and other research settings. Through regular (scheduled) and informal meetings the numerous mentors will provide feedback on progress and skills to the student, discuss current research goals and also review the student’s longer-term goals (we do this especially at the end of the work-learn period when the student has had exposure to the research environment). Indirect mentorship, and access to a larger network within UBC (see notes below beyond UBC), is possible through other graduate students and postdoctoral associates in the lab and we always encourage student researchers in our lab interested in pursuing ecology as a career to query all lab members about their career paths and general advice. Finally, the PI will also conduct a midpoint performance evaluation, as recommended by Career Services, and will meet with the student to review the evaluation near the end of the work-learn term.
+
+The student researcher is also welcomed at lab meetings and at weekly scrum. Scrum is a weekly meeting to review what everyone in the lab is working on and to bring general questions and challenges to the group. In this way work-learn student researchers can ask questions, but also see the hurdles and issues everyone in the lab faces. Lab meeting and scrum also provide a mechanism for the student to learn about the diversity of research programs in the lab.
+
+
+Personal, Professional, & Academic Development:
+Research thrives on new energy from the next generation of researchers, thus our lab welcomes student researchers into our group and seeks to give them a full experience of the process of research. We want students to experience research from idea generation to lab and field work, data entry, analysis and also have a sense of the next stages (manuscript preparation, translating research into practice). Thus, the student researcher will be encouraged to participate in lab activities, including weekly scrum (detailed above) and journal discussions, as well as to contribute intellectually to ongoing research. By including the student in discussions of research methods, challenges, and methods to improve efficiencies, they will see first hand the considerations and reasoning behind experiment design and research.
+
+This position is designed to help the student develop professionally and personally. Students learn how to communicate and work with land and lab managers, as we collect data in public areas, national parks and in the growth chamber facilities in Forestry; these connections also expand the students' network beyond UBC. Through the field work, the student will become familiar with plant development stages (leafout, flowering) and the woody species of British Columbia’s forest ecosystem and gain a deeper understanding of how forests are changing with climate change. Through these field experiences students develop their understanding of the relationship between plant morphology and ecological theory, while also gaining experience in data collection and proper data management. In participating in these activities, the students will be able to build on learning from their academic courses by gaining knowledge of the diversity and ecology of local and forests that compliments the course curriculum in many upper-year Forestry and Land and Food Systems courses. Their inclusion in lab meetings and discussions will allow them to develop the critical thinking skills required by upper-year classes and graduate studies. Additionally, through discussions with all lab members the student can learn about career paths in ecology, how diverse those paths can be, and in turn we in the lab aim to learn more about the student and their interests and goals.
+
+We especially recognize that those goals and interests can change over time and thus keep discussions open and continual throughout the work-learn term. While many student researchers in our lab have gone on to MSc or PhD programs in ecology or related fields, or have taken up conservation or related land management jobs, some have gone on to start their own record labels, work for conservation law firms or work on media arts, and we have worked to embrace all these interests as they fit within the context of the lab (e.g., the media arts lab member refined our photos of phenological events and helped build some of our nicest in-house keys). Whatever their trajectory, all students have found the organization, teamwork, communication, critical thinking, and lab/field work skills they gained helpful in future careers. 
+
+Students whose interests are well matched to the lab’s research goals at the end of their work-term are encouraged to continue in the lab. This can mean continuing to collaborate on the same project, developing a project of their own or switching onto other lab projects they are excited about. We also are happy to connect students with other labs as their interests require. For those most excited about the lab’s research we support honours projects and past honours students are now field technicians and PhD students in ecology, with one out of three publishing their results in a peer-reviewed journal. Overall the Temporal Ecology lab has supported almost two dozen junior researchers, with the vast majority going on to careers or degree programs in ecology and conservation. These former lab members show not only the success of our program, but also form a network future work-learn students can use to explore career opportunities.
+
+
+---------------------
+Skills
+Agriculture
+Ecology
+Excel
+Laboratory skills
+Photography
+Plant ecology
+Website updating
+forest science
+
