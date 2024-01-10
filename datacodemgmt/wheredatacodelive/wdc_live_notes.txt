@@ -210,3 +210,46 @@ https://github.com/temporalecologylab/labgit/tree/master/datacodemgmt/wheredatac
 
 Thanks!
 Lizzie 
+
+
+<><><><><><><><><><><><><><><><><><><><><>
+<> Where DataCode Live from Nov 30 2023 <>
+<><><><><><><><><><><><><><><><><><><><><>
+
+This the sad update where I say that some of our careful work was for not as Harvard deletes the files created by g.harvard.edu accounts when they leave Harvard and the account expires (even if they are in a folder owned by me). See also: harvardgoogledrive_lostaccounts.txt
+
+I am taking this as a good wakeup call that we should be backing up Google Drive better and not using it for anything sensitive we need to keep track of. 
+
+What to do? I could try to search for old files, but they will be more than 5 years old so not sure they're worth it. Instead I am trying to remember what files should exist here and then will ask folks to quickly make up files on them.
+
+Dan
+- Leaf vs flower experiment 
+- Data in concept paper at NPH
+- Seed germination trials
+- Competition experiment
+- Prunus project 
+
+Cat:
+- Microclimates
+- Freeze experiment
+- PEP725 freeze study
+- anything in freeze concept paper? 
+
+Other:
+- OSPREE
+- EGRET 
+- Radcliffe
+- Putnam 
+- Nacho and winegrape PNAS paper
+
+
+Darwin:
+- BC Coexistence
+- seed/soil experiment
+
+Faith:
+- Hardiness
+
+Of the above I found most of them! I moved and renamed what Darwin had and started a template for EGRET. I am then emailed Cat and Dan as I only found the microclimates one for Cat.
+
+
