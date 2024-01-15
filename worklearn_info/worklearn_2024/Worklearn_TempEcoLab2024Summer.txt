@@ -29,9 +29,10 @@ The student’s duties and responsibilities will include:
 1. Assisting the lab (PI and graduate students) in greenhouse experiment set-up and maintenance 
 2. Monitoring plant phenologies, including budburst and leafout
 3. Learning the phenological stages (i.e., bud burst and leafout) of native woody plants (after training and with close supervision)
-4. Help clean data on seed germination and cross-reviewing other students' cleaning code
-5. Learning and implementing basic data quality standards for entering and cleaning data 
-6. To communicate their findings and share experiences via the lab's blog and website. 
+4. Learning basic dendroclimatology knowledge and assisting with the tree coring fieldwork
+5. Help clean data on seed germination and cross-reviewing other students' cleaning code
+6. Learning and implementing basic data quality standards for entering and cleaning data 
+7. To communicate their findings and share experiences via the lab's blog and website. 
 
 Supervision
 
