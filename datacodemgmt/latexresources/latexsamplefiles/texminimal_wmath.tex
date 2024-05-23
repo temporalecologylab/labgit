@@ -1,0 +1,36 @@
+\documentclass[11pt]{article}
+\usepackage[top=1.00in, bottom=1.0in, left=1in, right=1in]{geometry}
+\renewcommand{\baselinestretch}{1.1}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{amsmath}
+
+\def\labelitemi{--}
+\parindent=0pt
+
+\begin{document}
+\bibliographystyle{/Users/Lizzie/Documents/EndnoteRelated/Bibtex/styles/besjournals}
+\renewcommand{\refname}{\CHead{}}
+
+\setlength{\parindent}{0cm}
+\setlength{\parskip}{5pt}
+
+\begin{align}
+N_{i}(t+1) & =
+s_{i}(N_{i}(t)(1-g_{i}(t))+\phi_{i}B(t+\delta)
+\end{align}
+The production of new biomass each season follows a basic R* competition model: new biomass production depends on its resource uptake ($f_i(R)$ converted into biomass at rate $c_i$) less maintenance costs ($m_i$), with uptake controlled by $a_i$ and $u_i$:
+\begin{align}
+\frac{\partial B_{i}}{\partial t} &  = [c_{i}f_{i}(R) - m_{i}]B_{i} \\
+f_{i}(R) & = \frac{a_{i}R^{\theta_{i}}}{1+a_{i}u_{i}R^{\theta_{i}}}
+\end{align}
+With the initial condition:
+\begin{align}
+B(t+0) & = N_{i}(t)g_{i}(t)b_{0,i}
+\end{align}
+The resource ($R$) itself declines across a growing season due to uptake by all species and abiotic loss ($\epsilon$):
+\begin{align}
+\frac{\mathrm{d}R}{\mathrm{d}t} & = - \sum_{i=1}^{n}f_{i}(R)B_{i} -\epsilon R
+\end{align}
+
+\end{document}
