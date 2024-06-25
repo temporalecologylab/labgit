@@ -1,0 +1,71 @@
+\documentclass[11pt]{article}
+\usepackage[top=1.00in, bottom=1.0in, left=1.1in, right=1.1in]{geometry}
+\renewcommand{\baselinestretch}{1.1}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{amsmath}
+\usepackage{parskip}
+
+\def\labelitemi{--}
+\parindent=0pt
+
+
+\title{Hobo Loggers Notes}
+\author{Christophe Rouleau-Desrochers }
+\date{\today}
+
+\begin{document}
+\maketitle	
+
+
+% Optional TOC
+% \tableofcontents
+% \pagebreak
+
+%--Paper--
+
+% Section 1
+Quick document to share some notes I took since I started using the Hobo Loggers in 2023. Please find more details in the instruction manual (PDF version), as the one in the boxes are not thorough. 
+
+% Section 2
+\section{Model MX2301A -- Temperature and Relative Humidity sensor}
+Setting up this sensor is a little tricky. Unlike the light sensor (see below), it needs to be in complete shade, otherwise the temperature readings will be  biased by the sunlight warming. Fredi and I thought about that in 2023 and here's what we thought: we don't want a box of some sort where a "roof" traps the heat inside  where the logger is located. We also want a material that has high albedo. Therefore, what we came up with is using plant pots on which we remove the bottom and cover with Riteintherain paper. The paper is fixed with staples. We place the logger on a stick
+\par \textbf {Getting started:}
+\begin {enumerate}
+	\item Download Hoboconnect app on your phone.
+	\item Press the main button and it should appear in the logger section in the app. 
+	\item Figure out the settings for this specific logger and set his name. Here are the settings I used for Fuelinex in 2024:
+		\begin {itemize}
+			\item For the logger name, keep the number series, but add a meaningful description before the numbers (E.g. bloc number)
+			\item Always leave bluetooth on. 
+			\item Set the logging interval to 5 minutes. This affects for how long the logger will be able to run before running out of space/battery
+		\end {itemize}
+	\item Take a note of where the logger will be installed and it's corresponding ID
+	\item Place the logger with zip ties on a stick (I used PVC. I cut them 1 meter long and sharpened the edge with an electric saw so they are easy to plant in the ground. Then, I pierced 4 holes in the plant pot (on which paper was previously installed -- see above) and installed the "protector" on the stick
+\end {enumerate}
+
+% Section 3
+\section{Model MX2202 -- Temperature and Light sensor}
+For this one, I think using the temperature data is useless. As described previously, if the logger is placed in direct sunlight (which it needs to be to log lux data), the logger will become warm and the temperature reading will be biased. 
+\begin {enumerate}
+	\item Download Hoboconnect app on your phone.
+	\item Press the small central button firmly. The logger ID should appear in the logger section in the app. 
+	\item Figure out the settings for this specific logger and set his name. Here are the settings I used for Fuelinex in 2024:
+		\begin {itemize}
+			\item For the logger name, keep the number series, but add a meaningful description before the numbers (E.g. bloc number)
+			\item Always leave bluetooth on. 
+			\item Set the logging interval to 5 minutes. This affects for how long the logger will be able to run before running out of space/battery
+			\item Remove the temperature logging
+		\end {itemize}
+	\item Take a note of where the logger will be installed and it's corresponding ID
+	\item Place the logger with zip ties on a stick so it's exposed to full sun. 
+\end {enumerate}
+
+% Section 4
+\section {Thoughts and Miscellaneous}
+\subsection {HoboConnect}
+The download via the app is great. However, I think it's only good when you have 4-5 loggers max. Unless you have a powerful phone, I thought that the app was lagging a lot which is very frustrating. I use 31 loggers and it's very not fluid. I will try using their softwares on a computer instead, but it's only available for PCs.
+
+%--/Paper--
+
+\end{document}
