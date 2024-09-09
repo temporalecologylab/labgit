@@ -243,19 +243,27 @@ e
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2] (./fuelinex_climate_chambers_notes.aux) ) 
+./fuelinex_climate_chambers_notes.tex:39: Undefined control sequence.
+l.39 \textbg
+             {Things done}
+? 
+./fuelinex_climate_chambers_notes.tex:39: Emergency stop.
+l.39 
+     
+End of file on the terminal!
+
+ 
 Here is how much of TeX's memory you used:
- 3670 strings out of 476025
- 56588 string characters out of 5790017
- 1856388 words of memory out of 5000000
+ 3668 strings out of 476025
+ 56516 string characters out of 5790017
+ 1852388 words of memory out of 5000000
  24108 multiletter control sequences out of 15000+600000
  517516 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,6n,62p,563b,188s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fo
+./fuelinex_climate_chambers_notes.tex:39:  ==> Fatal error occurred, no output 
+PDF file produced!
+dist/fo
 nts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/font
 s/type1/public/amsfonts/cm/cmr17.pfb>
 Output written on fuelinex_climate_chambers_notes.pdf (2 pages, 74207 bytes).
