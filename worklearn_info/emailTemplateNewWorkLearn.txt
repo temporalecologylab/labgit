@@ -1,0 +1,34 @@
+Hi XX,
+
+
+We are excited to have you joining the lab! To get you off to a great start this week, here are a few tasks:
+
+1. New employee training:
+If you have not had to already, there are several modules required for all UBC employees. At the end of the modules you will get a certificate that you should save for your own record. Most module certificates are good for several years. 
+
+To enroll in theses courses you can do so here using your CWL: 
+https://wpl.ubc.ca/ 
+
+If you have not done so from past experiences, could you please complete the following UBC new employee modules?
+New Worker Safety orientation
+Preventing and addressing Workplace bullying and harassment
+Privacy and Information Security - Fundamentals Part 1 and 2 
+
+2. Get a GitHub account:
+Do you currently have a github account? We use it in the lab to share code and really benefit from its version control and sharing capabilities.
+
+If you do not have an account, GitHub has a lot of great documentation, including this page on making your account and getting it configured. There is also github for students that allows you to have a private account. 
+https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account
+https://education.github.com/students
+
+3. Do our labs tutorial on how to use GitHub:
+Attached is a zipped folder with all the files you will need for our lab's GitHub tutorial, which we have created to ensure everyone has the basic skills needed to work with github in the lab. 
+
+In the folder you will find a file called sandbox_todo, this has a series of tasks similar to ones we could ask you to perform while in the lab. We do not use the Github gui, but rather ask everyone to learn some basic bash commands and interact with github using terminal. You may have to google how to complete the assignment, but github has great documentation and there are tons of resources online. If you get stuck on a part let use know and we are happy to help.
+
+As you work through the assignment, could you please write out the commands you use for each task in a text file and send them to me when you are finished. 
+
+If you have any questions about the above, please let me know.
+Best,
+
+XX
