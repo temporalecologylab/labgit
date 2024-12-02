@@ -4,8 +4,8 @@
 *.Rapp.history
 *.Rhistory
 
-*.key
 *.docx
+*.key
 *.ppt
 *.pptx
 
