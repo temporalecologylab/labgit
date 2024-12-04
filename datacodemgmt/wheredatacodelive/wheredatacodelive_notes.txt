@@ -2,6 +2,7 @@ Started 5 Jan 2020
 Started by Lizzie
 
 See below for an emailed example of what I assigned people in November 2020
+Looking for notes on the loss of files and move to Github in 2024? See below for: Where DataCode Live: Move from Google drive to GitHub in 2023-2024
 
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <> How to review/check Where DataCode Live (WDC Live) files <>
@@ -252,4 +253,28 @@ Faith:
 
 Of the above I found most of them! I moved and renamed what Darwin had and started a template for EGRET. I am then emailed Cat and Dan as I only found the microclimates one for Cat.
 
+
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+<> Where DataCode Live: Move from Google drive to GitHub in 2023-2024 <>
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+Consolidating notes on 3 December 2024
+
+In late November 2023, I figured out that we were losing files by maintaining them on google drive so I tried to recover what I could by asking Dan B and Cat C to rebuild files (see email WhereDataCodeLive -- Disaster and recovery Nov2023.pdf on Lizzie's machine), which they both did. 
+
+I also started a process to figure out a better home. After some efforts, we decided GitHub and markdown would be best. I will be emailing the lab this update today (3 December 2024):
+
+\begin{quote}
+
+As some of you know, we needed to move file management of our lab's WhereDataCodeLive from Google Drive. I have been working on this since the summer (I mean, really for over a year, but let's not dwell on that) and have made a new home for WhereDataCodeLive on our labgit. Please check out:
+
+https://github.com/temporalecologylab/labgit/blob/master/datacodemgmt/wheredatacodelive/_READMEwheredatacodelive.md
+
+And work on your existing files or *start new files* for new projects. Projects in need of a first-time WhereDataCodeLive or with existing files with almost no info (e.g., Phaenoflex) should be built in Markdown. 
+
+*Please complete your first draft files and or update your existing files by 17 December and let me know when you have so I can review them.* If you have any questions, please @ me here: https://github.com/temporalecologylab/labgit/issues/36
+
+Thank you!
+\end{quote}
+
+I also left a few notes on my progress on this transfer in not posting/_README_wheredatacodelivenotposting
 
