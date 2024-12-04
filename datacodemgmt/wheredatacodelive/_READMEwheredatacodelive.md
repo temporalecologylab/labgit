@@ -14,7 +14,7 @@ Great question! Please copy the markdown (.md) in ZeTemplate/ZeTemplate.md (http
 Notes on what to check for in a good  wheredatacodelive project file are in wheredatacodelive_notes.txt
 
 ## Some history (and related notes)
-Until 2023, we maintained these files as Google Doc files on the lab's Google Drive. Then in November 2023, Lizzie realized we were losing files as people left the lab (annoyingly, Google Drive files are owned by those who make them, no matter what folder they are in, so when Cat Chamberlain -- for example -- made some and then left Harvard after her PhD, the files were deleted by Harvard/Google). So, in 2024 Lizzie slowly got everything switched so it could be on GitHub. 
+Until 2023, we maintained these files as Google Doc files on the lab's Google Drive. Then in November 2023, Lizzie realized we were losing files as people left the lab (annoyingly, Google Drive files are owned by those who make them, no matter what folder they are in, so when Cat Chamberlain -- for example -- made some and then left Harvard after her PhD, the files were deleted by Harvard/Google). So, in 2024 Lizzie slowly got everything switched so it could be on GitHub. (See Where DataCode Live: Move from Google drive to GitHub in 2023-2024 in wheredatacodlive_notes for more info.)
 
 As of December 2024, all new files should be in Markdown (.md) and always saved as .html (or .pdf) also. Files already made as Google docs are maintained as .docx and should always be printed to PDF each time they are pushed. 
 

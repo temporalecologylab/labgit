@@ -269,7 +269,7 @@ As some of you know, we needed to move file management of our lab's WhereDataCod
 
 https://github.com/temporalecologylab/labgit/blob/master/datacodemgmt/wheredatacodelive/_READMEwheredatacodelive.md
 
-And work on your existing files or *start new files* for new projects. Projects in need of a first-time WhereDataCodeLive or with existing files with almost no info (e.g., Phaenoflex) should be built in Markdown. 
+And work on your existing files or *start new files* for new projects (or any lab project with data, but without a wheredatacodelive file). Projects in need of a first-time WhereDataCodeLive or with existing files with almost no info (e.g., Phaenoflex) should be built in Markdown. 
 
 *Please complete your first draft files and or update your existing files by 17 December and let me know when you have so I can review them.* If you have any questions, please @ me here: https://github.com/temporalecologylab/labgit/issues/36
 
