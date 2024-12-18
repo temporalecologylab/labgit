@@ -12,12 +12,12 @@ Short statement on reason for study
 
 _Contributors_
 
-Give names and contact information of main personnel involved in project.
+## Give names and contact information of main personnel involved in project.
 
 _General Files_
 
-| __File__  |__Where__ |__What__  |
-|:---       |:---      |:---      |
+| __File__                    | __Where__                                                                                                                                             | __What__                    |
+|:--------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------- |:--------------------------- |
 | Explain what is in the file | Give a backed-up place where the data are (e.g., Wolkovich Lab Google Drive, WeldShare, Odyssey lab folder; github is okay). Link to item if possible | Explain what is in the file |
 
 _Data and Code_
@@ -27,8 +27,8 @@ Give info on how to track down all locations given in table below (even if link 
 __Github__  [https://github.com/lizzieinvancouver/buds/tree/](https://github.com/lizzieinvancouver/buds/tree/master/analyses/data)  
 __W: drive__ Weldshare > Wolkovich Lab > Budburst Experiment 2015
 
-| __File__  |__Where__ |__What__  |
-|:---       |:---      |:---      |
+| __File__                    | __Where__                                                                                                                                             | __What__                    |
+|:--------------------------- |:----------------------------------------------------------------------------------------------------------------------------------------------------- |:--------------------------- |
 | Explain what is in the file | Give a backed-up place where the data are (e.g., Wolkovich Lab Google Drive, WeldShare, Odyssey lab folder; github is okay). Link to item if possible | Explain what is in the file |
 
 __Possible Extras:__
@@ -38,9 +38,5 @@ Any amendments to when public archiving happen should mentioned here and an aste
 Be sure all your data is somewhere where it is backed up as per the data management plan.  
 
 Check this file for accuracy, and update as needed, every 6 months or sooner.  
-  
-  
-  
-  
-  
+
 ![CC License](..//ccimage/CC_BY-SA_icon.svg.png)
