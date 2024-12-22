@@ -1,0 +1,105 @@
+- **Date of study**
+- April - November 2023: Main measurement campaign
+- November - December 2023: Harvest, drying, biomass assessment
+- September 2024 - December 2024: microtome cutting, imaging and image analysis
+- **Date of Public Archiving:**
+- NA
+- **Last Modified:**
+- [[December 21st, 2024]]
+- **Goal**
+- Assess the flexibility of growth patterns if source or sink activities are downregulated by defoliation or drought
+- **Contributors**
+- Lizzie
+- Christophe Rouleau-Desrochers crouleau@mail.ubc.ca
+- Britany Wu briwuuu@student.ubc.ca
+- Justin Ngo ngojustintwz1@gmail.com
+- Julie Sieg jsieg01@mail.ubc.ca
+- Dajeong Kim dajeong.kim@ubc.ca
+- Sylvia nphhuong@student.ubc.ca
+- 
+- **General Files**
+- {{[[table]]}}
+    - **File**
+        - **What**
+            - **Where**
+    - Design_full_Phaenoflex.pdf
+        - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/design/Design_full_Phaenoflex.pdf)
+            - Overview of the experimental design
+    - PhaenoFlex_Arrangement_Def.pdf
+        - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/design/PhaenoFlex_Arrangement_Def.pdf)
+            - Overview of how replicates where distributed among blocks and within the greenhouse
+    - PhaenoFlex_replication_species.xlsx
+        - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/design/PhaenoFlex_replication_species.xlsx)
+            - Information on species selection and prices. replication calculations
+    - phaenoflex_methods.Rnw
+        - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/design/PhaenoFlex_replication_species.xlsx)
+            - tex file method description
+    - treatments_schedule.xlsx
+        - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/data/treatments_schedule.xlsx)
+            - start and end date of treatments
+    - dro_1_photoperiod.csv
+        - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/notes/dro_1_photoperiod.csv) 
+            - photoperiod regime simulated in the climate chambers
+- **Data**
+    - {{[[table]]}}
+        - **File**
+            - **What**
+                - **Where**
+        - phaenoflex_data_12_merge_Jan_28_FB.xlsx
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/data/biomass/phaenoflex_data_12_merge_Jan_28_FB.xlsx)
+                - rawdata of main file with most measrurements: biomass
+        - leaf_weight.xlsx
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/data/leaf_mass/leaf_weight.xlsx)
+                - leaf-weight of defoliated saplings
+        - meteo/climate_chamber
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/tree/main/data/meteo/climate_chamber)
+                - all temp/humidity files/data in the climate chambers
+        - meteo/Totem_field
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/tree/main/data/meteo/Totem_field)
+                - all temp files of ambient conditions at Totemfield for the last 30 years
+        - senescence_Amax.xlsx
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/data/senescence/senescence_Amax.xlsx)
+                - maximum Photosynthesis values for senescence monitoring
+        - senescence_5_Sept_FB.xlsx
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/data/senescence/senescence_5_Sept_FB.xlsx)
+                - percentage of remaining green leaves and chlorophyll content data
+        - shoot_elongation_final.xlsx
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/data/shoot_elongation/shoot_elongation_final.xlsx)
+                - Shoot elongation data
+        - data/soil_moisture
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/tree/main/data/soil_moisture)
+                - soil-moisture-loss-data files for the 3 drought treatments and symptoms observation of desiccation
+- **Code**
+    - {{[[table]]}}
+        - **File**
+            - **What**
+                - **Where**
+        - Design_overview_treatments.R
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/analysis/r/Design_overview_treatments.R)
+                - Design of Experiment with Temperature
+        - correation_per_species.R
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/analysis/r/soil_moisture/correlation_per_species.R)
+                - Correlation of volumetric water content and weight loss during drought treatments
+        - soil_moisture_master.R
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/analysis/r/soil_moisture/soil_moisture_master.R)
+                - Soil moisture curves during drought treatments
+        - Shoot_elongation.R
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/analysis/r/Shoot_elongation.R)
+                - Shoot elongation, cleaning, plotting
+        - senescence.R
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/analysis/r/senescence.R)
+                - cleaning, calculation and plotting of senescence curves
+        - Simulate_DS_Test_Model.R
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/analysis/r/Simulate_DS_Test_Model)
+                - Data simulation to check model output
+        - model_biomass_compare_all_solstice_treat.r
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/analysis/r/model_biomass_compare_all_solstice_treat.r)
+                - model biomass for all treatments conducted around the summer solstice
+        - model_biomass_compare_dro_def_treat.r
+            - [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/analysis/r/model_biomass_compare_dro_def_treat.r)
+                - model biomass for all drought and defoliation treatments
+- **Possible Extras:**
+- Any amendments to when public archiving happen should mentioned here and an asterisk given above where archiving date is given.
+- Be sure all your data is somewhere where it is backed up as per the data management plan.
+- Check this file for accuracy, and update as needed, every 6 months or sooner.
+- 
