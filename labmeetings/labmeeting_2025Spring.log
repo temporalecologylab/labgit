@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.27)  16 JAN 2025 15:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.27)  20 JAN 2025 18:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -177,6 +177,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package: ulem 2019/11/18
 \ULdepth=\dimen147
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 11.
+
 (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count275
@@ -185,48 +187,69 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 (./labmeeting_2025Spring.aux)
 \openout1 = `labmeeting_2025Spring.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-Package hyperref Info: Link coloring OFF on input line 23.
- (./labmeeting_2025Spring.out)
-(./labmeeting_2025Spring.out)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+
+(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count276
+\scratchdimen=\dimen148
+\scratchbox=\box55
+\nofMPsegments=\count277
+\nofMParguments=\count278
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count279
+\MPscratchDim=\dimen149
+\MPnumerator=\count280
+\makeMPintoPDFobject=\count281
+\everyMPtoPDFconversion=\toks20
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+Package hyperref Info: Link coloring ON on input line 30.
+
+(./labmeeting_2025Spring.out) (./labmeeting_2025Spring.out)
 \@outlinefile=\write3
 \openout3 = `labmeeting_2025Spring.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 35.
+(Font)              <10.95> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 35.
+(Font)              <8> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 35.
+(Font)              <6> on input line 41.
 
-Overfull \hbox (6.59593pt too wide) in paragraph at lines 42--42
+Overfull \hbox (6.59593pt too wide) in paragraph at lines 48--48
 []\OT1/cmr/m/n/10.95 XW/CRD| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
-[]\OT1/cmr/m/n/10.95 Christophe's com-mit-tee meet-ing
- []
-
-
-Overfull \hbox (44.63539pt too wide) in paragraph at lines 35--55
+Overfull \hbox (50.32585pt too wide) in paragraph at lines 41--62
  [] 
  []
 
@@ -245,20 +268,21 @@ Package rerunfilecheck Info: File `labmeeting_2025Spring.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 7584 strings out of 474116
- 118495 string characters out of 5743681
- 1948187 words of memory out of 5000000
- 29902 multiletter control sequences out of 15000+600000
- 561827 words of font info for 49 fonts, out of 8000000 for 9000
+ 8138 strings out of 474116
+ 126285 string characters out of 5743681
+ 1952187 words of memory out of 5000000
+ 30438 multiletter control sequences out of 15000+600000
+ 562173 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,9n,79p,295b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,79p,295b,438s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on labmeeting_2025Spring.pdf (1 page, 50414 bytes).
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on labmeeting_2025Spring.pdf (1 page, 70844 bytes).
 PDF statistics:
- 28 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
+ 34 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
