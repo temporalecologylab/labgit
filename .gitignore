@@ -4,6 +4,11 @@
 *.Rapp.history
 *.Rhistory
 
+*.aux
+*.log
+*.out
+*.synctex.gz
+
 *.docx
 *.key
 *.ppt
