@@ -2,7 +2,7 @@ _Date of study_
 Enter when study happened here (e.g., January-June, 2015)
 
 _Date of Public Archiving:_  
-Enter when data should be (or was) publicly-archived following lab data management plan.  
+Enter when data should be (or was) publicly-archived following lab data management plan.  (two years after completion of project)
 _Last Modified:_  
 Update this whenever you alter the file.
 
