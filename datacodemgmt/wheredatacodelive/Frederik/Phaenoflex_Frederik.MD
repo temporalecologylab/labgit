@@ -10,7 +10,7 @@
 
 **Last Modified:**
 
-- January 22nd 2025
+- 22 January 2025
 
 **Goal:**
 
@@ -33,7 +33,7 @@
 | Design_full_Phaenoflex.pdf         | Overview of the experimental design                                      | [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/design/Design_full_Phaenoflex.pdf)  |
 | PhaenoFlex_Arrangement_Def.pdf     | Overview of how replicates were distributed among blocks and greenhouse  | [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/design/PhaenoFlex_Arrangement_Def.pdf)  |
 | PhaenoFlex_replication_species.xlsx| Information on species selection and prices, replication calculations    | [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/design/PhaenoFlex_replication_species.xlsx)  |
-| phaenoflex_methods.Rnw             | TeX file method description                                              | [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/design/PhaenoFlex_replication_species.xlsx)  |
+| phaenoflex_methods.Rnw             | TeX file method description                                              | [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/docs/phaenoflex_methods.Rnw)  |
 | treatments_schedule.xlsx           | Start and end date of treatments                                         | [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/data/treatments_schedule.xlsx)  |
 | dro_1_photoperiod.csv              | Photoperiod regime simulated in the climate chambers                     | [Github](https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/notes/dro_1_photoperiod.csv)   |
 

@@ -297,17 +297,23 @@ overflow-y: auto;
 border: 1px solid #ddd;
 border-radius: 4px;
 }
-.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-content: "\e259";
+.tabset-dropdown > .nav-tabs > li.active:before {
+content: "";
 font-family: 'Glyphicons Halflings';
 display: inline-block;
 padding: 10px;
 border-right: 1px solid #ddd;
 }
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-content: "\e258";
-font-family: 'Glyphicons Halflings';
+content: "";
 border: none;
+}
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+content: "";
+font-family: 'Glyphicons Halflings';
+display: inline-block;
+padding: 10px;
+border-right: 1px solid #ddd;
 }
 .tabset-dropdown > .nav-tabs > li.active {
 display: block;
@@ -365,7 +371,7 @@ image analysis</li>
 </ul>
 <p><strong>Last Modified:</strong></p>
 <ul>
-<li>January 22nd 2025</li>
+<li>22 January 2025</li>
 </ul>
 <p><strong>Goal:</strong></p>
 <ul>
@@ -417,7 +423,7 @@ calculations</td>
 <tr class="even">
 <td>phaenoflex_methods.Rnw</td>
 <td>TeX file method description</td>
-<td><a href="https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/design/PhaenoFlex_replication_species.xlsx">Github</a></td>
+<td><a href="https://github.com/FrederikBaumgarten/PhaenoFlex_clean/blob/main/docs/phaenoflex_methods.Rnw">Github</a></td>
 </tr>
 <tr class="odd">
 <td>treatments_schedule.xlsx</td>
