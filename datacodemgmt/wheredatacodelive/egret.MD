@@ -32,8 +32,6 @@ _General Files_
 
 _Data and Code_
 
-Give info on how to track down all locations given in table below (even if link fails). Two good examples given below -- delete these for your file!
-
 __Github__  [https://github.com/lizzieinvancouver/egret](https://github.com/lizzieinvancouver/egret)  
 __W: drive__ Weldshare > Wolkovich Lab > ?
 
@@ -43,6 +41,10 @@ __W: drive__ Weldshare > Wolkovich Lab > ?
 | Cleaning files | [GitHub: analyses/cleaning](https://github.com/lizzieinvancouver/egret/blob/main/analyses/input/egretData.csv) | Set of scripts to clean data (from published experiments), gathered in `cleanall.R` (pipeline to define how and in what order they should be run) |
 | Raw USDA dataset | [GitHub: analyses/scrapeUSDAseedmanual/input](https://github.com/lizzieinvancouver/egret/blob/main/analyses/scrapeUSDAseedmanual/input) | Raw scrapped tables from USDA seed manual |
 | Cleaning files for USDA data | [GitHub: analyses/scrapeUSDAseedmanual/cleaning](https://github.com/lizzieinvancouver/egret/blob/main/analyses/scrapeUSDAseedmanual/cleaning) | Set of scripts to clean USDA data, gathered in `cleanAllUSDA.R` |
+| Cleaning misc. files | [GitHub: analyses/cleaningOther](https://github.com/lizzieinvancouver/egret/blob/main/analyses/cleaningOther) | Set of scripts to clean other data, including Baskin database |
+| Data filtering and selection | [GitHub: analyses/studyDesign](https://github.com/lizzieinvancouver/egret/blob/main/analyses/studyDesign) | Set of scripts to compare treatments across studies and develop a framework for selecting the most relevant combinations (`decisionRules.R`) |
+| Exploratory work on models | [GitHub: analyses/modeling](https://github.com/lizzieinvancouver/egret/blob/main/analyses/modeling) | Set of scripts to compare Binomial/Beta distribution with simulated data, and fit the very first models to real data |
+| Stan models | [GitHub: analyses/stan](https://github.com/lizzieinvancouver/egret/blob/main/analyses/stan) | Stan models |
 
 __Possible Extras:__
 
