@@ -26,3 +26,36 @@ From Ken in 2025
 
 All of the first-year engineering students take APSC 101 which is held at the Life Building, Room 2201 during Mondays and Thursdays. There are four classes scheduled at 8-9, 9-10, 3-4, and 4-5. If you are looking for places to just put the posters, maybe you could put them outside LIFE 2201, CHEM B250, and HEBB 100.
 There is also an engineering undergrad newsletter with the next edition on March 16. Deadline for submissions is tomorrow (March 13), 9 am. I could try submitting an announcement if you want.
+
+
+<><><><><><><>
+Text from emails in March 20205
+Need to look up who is teaching what ... 
+
+SUBJECT: Advertise WorkLearn positions in your class?
+ATTACH SLIDE OR SUCH!
+
+
+COMPSCI 304:
+
+I hope this email finds you well. I run the Temporal Ecology Lab at the Faculty of Forestry, where we are currently hiring new WorkLearn students to join our lab this summer. I would greatly appreciate it if you could share this opportunity with students in your CPSC 304 classes.
+
+Our lab is model-intensive and places a significant emphasis on coding, data analysis, and computational methods. Thus, we are interested in engaging students with backgrounds in computer science.
+
+We have attached a poster outlining the WorkLearn opportunity and would be grateful if you would consider sharing it with your students during the lecture. This opportunity could be a great fit for students interested in applying their coding skills to ecological research.
+
+We greatly appreciate your support in helping us spread the word about this opportunity for students! Please don’t hesitate to contact me if you need further information or have any questions.
+
+
+DSCI version:
+
+I hope this email finds you well. I run the Temporal Ecology Lab at the Faculty of Forestry, where we are currently hiring new WorkLearn students to join our lab this summer. I would greatly appreciate it if you could share this opportunity with students in your DSCI 100 classes.
+
+Our lab is model-intensive and places a significant emphasis on coding, data analysis, and computational methods. Thus, we are interested in engaging students with backgrounds in data science.
+
+We have attached a poster outlining the WorkLearn opportunity and would be grateful if you would consider sharing it with your students during the lecture. This opportunity could be a great fit for students interested in applying their coding and data science skills to ecological research.
+
+We greatly appreciate your support in helping us spread the word about this opportunity for students! Please don’t hesitate to contact me if you need further information or have any questions.
+
+All the  best,
+Lizzie
