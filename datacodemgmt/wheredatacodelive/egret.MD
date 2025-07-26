@@ -1,27 +1,48 @@
 _Date of study_  
-Start date (**?**) - today
+Sometimes in 2020 - today (2025)
 
 _Date of Public Archiving:_  
-Enter when data should be (or was) publicly-archived following lab data management plan.  (two years after completion of project)
+We're still cleaning in 2025, so hopefully sometime in 2027? (Oy.)
 
 _Last Modified:_  
-25 February 2025
+26 July 2025
 
 _Goal_  
 Quantitative review of literature on the response of seed germination to environmental cues.
 
 _Contributors_  
-**To be completed:**  
-Lizzie Wolkovich - [e.wolkovich@ubc.ca](mailto:e.wolkovich@ubc.ca)    
-Daniel Buonaiuto - [dbuonaiuto@umass.edu](mailto:dbuonaiuto@umass.edu)  
-Deirdre Loughnan - [deirdre.loughnan@gmail.com](mailto:deirdre.loughnan@gmail.com)  
-Xiaomao Wang - [wangxm29@mail.ubc.ca](mailto:wangxm29@mail.ubc.ca)  
-Christophe Rouleau-Desrochers - [christophe.rouleaudesrochers@ubc.ca](mailto:christophe.rouleaudesrochers@ubc.ca)  
-Justin Ngo - [ngojustintwz1@gmail.com](mailto:ngojustintwz1@gmail.com)  
-Ken Michiko Samson - [shmkkmhs12@gmail.com](mailto:shmkkmhs12@gmail.com)  
-Frederik Baugmarten - [frederik.baumgarten@wsl.ch ](mailto:frederik.baumgarten@wsl.ch)  
-Bunch of people...  
-Victor Van der Meersch - [victor.vandermeersch@cefe.cnrs.fr](mailto:victor.vandermeersch@cefe.cnrs.fr)  
+
+* Lizzie Wolkovich - [e.wolkovich@ubc.ca](mailto:e.wolkovich@ubc.ca)    
+* Daniel Buonaiuto - [dbuonaiuto@umass.edu](mailto:dbuonaiuto@umass.edu)  
+* Deirdre Loughnan - [deirdre.loughnan@gmail.com](mailto:deirdre.loughnan@gmail.com)  
+* Xiaomao Wang - [wangxm29@mail.ubc.ca](mailto:wangxm29@mail.ubc.ca)  
+* Christophe Rouleau-Desrochers - [christophe.rouleaudesrochers@ubc.ca](mailto:christophe.rouleaudesrochers@ubc.ca)  
+* Victor Van der Meersch - [victor.vandermeersch@cefe.cnrs.fr](mailto:victor.vandermeersch@cefe.cnrs.fr) 
+
+A lot of undergraduates helped with data entry and cleaning, especially:
+
+* Justin Ngo - [ngojustintwz1@gmail.com](mailto:ngojustintwz1@gmail.com)  
+* Ken Michiko Samson - [shmkkmhs12@gmail.com](mailto:shmkkmhs12@gmail.com)  
+
+And also:
+
+* Selena Shew (USDA scraping and cleaning, and data scraping for EGRET)
+* Sandy Zhang (USDA scraping and cleaning)
+* Britany Wu (cleaning)
+* Tolu Amuwo (early cleaning, scraping)
+* Sophia Collins (scraping, maybe some early cleaning)
+* Grace Gooding (scraping) 
+* Julie Sieg (scraping) 
+* Daejong Kim (scraping) 
+* Dinara Mamatova (scraping) 
+* Hoai Huong Nguyen Phan (scraping) 
+* Monica Nguyen (scraping)
+* Alina Zeng (scraping)
+
+Also:
+
+* Frederik Baugmarten - helped some on retreats in 2023-2024 while visiting the lab, but decided it was too much work to continue. 
+
 
 _General Files_
 
