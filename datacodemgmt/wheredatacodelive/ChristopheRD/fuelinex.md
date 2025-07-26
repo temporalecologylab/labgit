@@ -1,44 +1,43 @@
-##### *Date of study*
+##Fuelinex WDC
+#### *Last Modified:*  24 February 2024
 
-February 2024 -- >
+#### *Date of study*
+February 2024 -- > December 2025 (Estimated)
 
 ##### *Date of Public Archiving:*
+June 2026 (Estimated)
 
-NA
-
-#### *Last Modified:*
-
-17 Dec 2024
-
-#### *Goal*
-
+##### *Goal*
 Investigate how extended growing seasons influence tree's capacity to grow to following year. And also get a Master's degree!
 
 #### *Contributors*
 
-Lizzie
+**Elizabeth Wolkovich**
+wolkovic@mail.ubc.ca
 
-Frederik Baumgarten
+**Frederik Baumgarten**
+frederik.baumgarten@protonmail.ch
 
-Xiaomao Wang
+**Xiaomao Wang**
+wangxm29@mail.ubc.ca
 
 Deirdre Loughnan
 
-Ken 
+Ken Michiko Samson
 
-Justin
+Justin Ngo
 
 Britany Wu
 
-Selena
+Selena Shew
 
-Mark
+Mark Pan
 
 Julie Sieg
 
-#### *General Files*
+Colette Bennett
 
-*not yet added* 
+## *General Files*
 
 | **File**                                              | **Where**                                                                                                                            | **What**                                                                                                          |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
@@ -50,7 +49,7 @@ Julie Sieg
 | OakPhenologyStages.docx                               | [Github](https://github.com/christophe-rd/fuelinex/tree/a2cd0691e6c7f301575c68e5dc3996580ad621a1/notes/methodology)                  | Phenology guide kindly provided by Raju Soolanayakanahally.                                                       |
 | budset_data_FINAL_JS.xlsx                             | [Github](https://github.com/christophe-rd/fuelinex/tree/a2cd0691e6c7f301575c68e5dc3996580ad621a1/notes/methodology/pheno_monitoring) | Pheanoflex budset data with pictures.                                                                             |
 
-#### *Data*
+## *Data*
 
 | **File**                                                                                                                                                                                                                                                                                                     | **Where**                                                                                                                       | **What**                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -67,8 +66,7 @@ Julie Sieg
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | TotemField_30YearsCleaned.csv | [Github](https://github.com/christophe-rd/fuelinex/tree/71c1dd92573e9d1b47a0c1c4bd5273476025bbb1/analyses/output/totemFieldClimateData) | Cleaned version of climate data from Totem Field climate station. Needs to be moved to data. |
 
-### Code
-
+## Code
 | Code                       |                                                                                                                                 | What                                                                                                         |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | hobotemp_cc.R              | [Github](https://github.com/christophe-rd/fuelinex/blob/71c1dd92573e9d1b47a0c1c4bd5273476025bbb1/analyses/rcode/hobolight_cc.R) | Cleaning data and organizing temp data from hobo loggers                                                     |
@@ -78,12 +76,9 @@ Julie Sieg
 | temperatureFallWarming.R   | [Github](https://github.com/christophe-rd/fuelinex/tree/11a725c231a11ccf020963e498928d404c939e41/analyses/rcode)                | Code to calculate temperature of warm fall treatment based on historic temperature records at totem field.   |
 | temperatureSpringWarming.R | [Github](https://github.com/christophe-rd/fuelinex/tree/11a725c231a11ccf020963e498928d404c939e41/analyses/rcode)                | Code to calculate temperature of cool spring treatment based on historic temperature records at totem field. |
 
-**Possible Extras:**
-
+##Possible Extras:
 Any amendments to when public archiving happen should mentioned here and an asterisk given above where archiving date is given.
 
 Be sure all your data is somewhere where it is backed up as per the data management plan.
 
 Check this file for accuracy, and update as needed, every 6 months or sooner.
-
-##### 
