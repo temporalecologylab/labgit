@@ -1,15 +1,16 @@
 # README for wheredatacodelive
 Started 3 September 2024
-Last updated 1 December 2024
+Last updated 27 July 2025
 
 By Lizzie
 
 ## What is this?
 WhereDataCodeLive is an important part of data management in the Temporal Ecology Lab; it's basically where we keep notes on the files that make up each project and keep track of when data will be made public following the rules in the lab data management plan (see tempeco_DMP.pdf). 
-It should be stored on the labgit in the wheredatacodelive folder. 
 
 ## How do I complete my wheredatacodelive?
 Great question! Please copy the markdown (.md) in ZeTemplate/ZeTemplate.md (https://github.com/temporalecologylab/labgit/blob/master/datacodemgmt/wheredatacodelive/ZeTemplate/ZeTemplate.MD) and update it for EACH of your projects in the lab. More details are in tempeco_DMP.pdf.
+
+wheredatacodelive files should be stored in the labgit in the wheredatacodelive folder. 
 
 ## I have been asked to check someone else's file, how do I do that?
 Notes on what to check for in a good  wheredatacodelive project file are in wheredatacodelive_notes.txt
