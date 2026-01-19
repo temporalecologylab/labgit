@@ -1,15 +1,13 @@
 Position summary
 
-<<<The Temporal Ecology Lab focuses on how global climate change is altering plants and plant communities locally, regionally and globally. Recent research in our lab has examined how climate change has advanced the timing of plants' leafout and flowering across diverse ecosystems and we are now focused more on how longer seasons impact tree growth and regeneration. During the fall, this work will focus on processing tree cores, setting up a seed germination study, collecting data on the seed germination experiment, as well as helping pull data from online databases. The laboratory is hiring undergraduate students to join the lab and directly contribute to the projects of graduate students, as well as collaborative projects in the lab.>>>
+<<<The Temporal Ecology Lab focuses on how global climate change is altering plants and plant communities locally, regionally and globally. Recent research in our lab has examined how climate change has advanced the timing of plants' leafout and flowering across diverse ecosystems and we are now focused more on how longer seasons impact tree growth and regeneration. During the summer, this work will focus on processing tree cores, setting up a seed germination study, collecting data on the seed germination experiment, as well as helping pull data from online databases. The laboratory is hiring undergraduate students to join the lab and directly contribute to the projects of graduate students, as well as collaborative projects in the lab.>>>
 
 Duties
 
 <<<
-The student’s duties and responsibilities will include:
+1. Helping with various tasks for tree growth work, including tree core processing, with the potential opportunity to do fieldwork to collect field data.
 
-1. Helping with various tasks for tree growth work, including tree core processing, with the opportunity to do fieldwork to collect field data.
-
-2. Assisting the lab with a pilot seed germination study, with the opportunity to do some soil sampling, growth chamber experiments, and data collection.
+2. Assisting the lab with a pilot seed germination study, with the potential opportunity to do some soil sampling, growth chamber experiments, and data collection.
 
 3. Learning and implementing basic data quality standards for entering and cleaning data.
 
@@ -17,7 +15,11 @@ The student’s duties and responsibilities will include:
 
 5. Pulling tree ring data from online databases.
 
+Depending on the students interests and skill development, additional responsibilities could include: 
+
 6. Assisting the lab with making videos for a phenological data collection guide.
+
+7. Basic analyses of data (the lab has a history of training interested undergraduates in the R programming language, so no previous skills are required for this, just interest).
 >>>
 
 Supervision
@@ -34,7 +36,7 @@ Complexity
 
 These tasks require attention, training and focus but are not overly complex, once trained. All students trained in these methods in our lab in the past have been able to master them after training, and the skills are transferrable to other lab and field activities. For all these tasks Work-Learn students will be provided with step-by-step instructions and will have constant training and supervision for the first few days of any tasks. Someone is always available to answer questions and provide additional guidance.
 
-This student researcher’s role is critical to the goals of the lab, which in turn contribute to goals within the Faculty of Forestry and the larger goals of the university to meet the challenge of climate change. The Temporal Ecology Lab is especially focused on better understanding and predicting the consequences of climate change in BC and globally. <<<The student worker will directly contribute to helping determine how woody plant growth pattern may be impacted by climate change and how is going to  shift with warming. The lab has a history of documenting and understanding climate-change induced changes in plant leafout and performance, which continues with this project.>>> The data produced through this work-learn experience will directly contribute to lab research, including presentation, data and manuscript publications.
+This student researcher’s role is critical to the goals of the lab, which in turn contribute to goals within the Faculty of Forestry and Environmental Stewardship and the larger goals of the university to meet the challenge of climate change. The Temporal Ecology Lab is especially focused on better understanding and predicting the consequences of climate change in BC and globally. <<<The student worker will directly contribute to helping determine how woody plant growth pattern may be impacted by climate change and how is going to  shift with warming. The lab has a history of documenting and understanding climate-change induced changes in plant leafout and performance, which continues with this project.>>> The data produced through this work-learn experience will directly contribute to lab research, including presentation, data and manuscript publications.
 
 The Faculty, Department and lab are committed to fostering a safe, supportive and inclusive environment for all. At the Faculty level, student workers have access to support through the EDI Coordinator, the Diversity Crew, and the EDI Council (more information here: https://forestry.ubc.ca/about/our-faculty-today/initiatives/equity-diversity-inclusion/).
 
@@ -64,6 +66,6 @@ We especially recognize that those goals and interests can change over time and 
 
 Students whose interests are well matched to the lab’s research goals at the end of their work-term are encouraged to continue in the lab. This can mean continuing to collaborate on the same project, developing a project of their own or switching onto other lab projects they are excited about. We also are happy to connect students with other labs as their interests require. For those most excited about the lab’s research we support honours projects and past honours students are now field technicians and PhD students in ecology, with one out of three publishing their results in a peer-reviewed journal.
 
-Overall the Temporal Ecology lab has supported almost two dozen junior researchers, with the majority going on to careers or degree programs in ecology and conservation or integrative degrees including biology (e.g., computer science and ecology). These former lab members show not only the success of our program, but also form a network future work-learn students can use to explore career opportunities.
+Overall the Temporal Ecology lab has supported almost three dozen junior researchers, with the majority going on to careers or degree programs in ecology and conservation or integrative degrees including biology (e.g., computer science and ecology). These former lab members show not only the success of our program, but also form a network future work-learn students can use to explore career opportunities.
 
 

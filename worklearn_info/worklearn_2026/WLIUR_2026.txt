@@ -1,14 +1,14 @@
 The Temporal Ecology Lab focuses on how global climate change is altering plants and plant communities locally, regionally and globally. Recent research in our lab has examined how climate change shifts have advanced the timing of plants' leafout and flowering across diverse ecosystems. 
 
 <<<
-This summer, work in this research position will focus on projects to understand forest coexistence in BC and Washington(through lab experiments, field surveys) and the effects of environmental cues on seed germination, tree growth and production, with opportunities for students to learn about and contribute to these projects as well. 
+This summer, work in this research position will focus on projects to understand forest coexistence in BC and Washington (through lab experiments, field surveys and existing observational data) and the effects of environmental cues on seed germination, tree growth and production, with opportunities for students to learn about and contribute to these projects as well. 
 >>>
 
 The student’s main responsibilities will include:
 <<<
-1. Helping with various tasks for tree growth work, including tree core processing, with the opportunity to do fieldwork to collect field data.
+1. Helping with various tasks for tree growth work, including tree core processing, with the potential opportunity to do fieldwork to collect field data.
 
-2. Assisting the lab with a pilot seed germination study, with the opportunity to do some soil sampling, growth chamber experiments, and data collection.
+2. Assisting the lab with a pilot seed germination study, with the potential opportunity to do some soil sampling, growth chamber experiments, and data collection.
 
 3. Learning and implementing basic data quality standards for entering and cleaning data.
 
@@ -16,14 +16,14 @@ The student’s main responsibilities will include:
 
 5. Pulling tree ring data from online databases.
 
-6. Assisting the lab with making videos for a phenological data collection guide.
-
 Depending on the students interests and skill development, additional responsibilities could include: 
+
+6. Assisting the lab with making videos for a phenological data collection guide.
 
 7. Basic analyses of data (the lab has a history of training interested undergraduates in the R programming language, so no previous skills are required for this, just interest).
 >>>
 
-The preferred candidate will be an undergraduate and have a basic understanding of ecology and/or physiology in plants---previous experience in a lab or field setting is helpful, though this is not required provided the student has an enthusiasm to learn. A basic background in biology with coursework at the third year or higher is preferred, but also not required.
+The preferred candidate will be an undergraduate and have a basic understanding of ecology and/or physiology in plants---previous experience in a lab or field setting or with computational tasks is helpful, though this is not required provided the student has an enthusiasm to learn. A basic background in biology and/or a field related to the methods the lab uses (i.e., engineering, computer science, statistics) with interest in biology is often helpful, but also not required.
 
-The biggest qualification for a student is enthusiasm to learn and engage with the research topic. In addition, students who would be a good fit for the position and lab will have strong organization and communication skills, be detail oriented, work well alone and in a team, be interested in building lab and field skills. Students excited about the intersection between research and social media (including photography, web design, Twitter, and other virtual as well as in-person ways to communicate results) are especially encouraged to apply. <<<Students will gain skills in both exepriments and filedwork, which are important introductory skills for future work in most plant-focused ecology and physiology labs. >>>Additionally these basic skills can be transferred to other lab and field environments.
+The biggest qualification for a student is enthusiasm to learn and engage with the research topic. In addition, students who would be a good fit for the position and lab will have strong organization and communication skills, be detail oriented, work well alone and in a team, be interested in building lab and field skills. Students excited about the intersection between research and social media (including photography, web design, BlueSky, and other virtual as well as in-person ways to communicate results) are especially encouraged to apply. Students usually gain skills in both experiments and fieldwork, which are important introductory skills for future work in most plant-focused ecology and physiology labs. Additionally these basic skills can be transferred to other lab and field environments.
 
