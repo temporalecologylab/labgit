@@ -1,6 +1,6 @@
 #### **Synchrony WDC**
 
-*Last Modified:*  01 October 2026
+*Last Modified:*  October 2026
 
 *** 
 
@@ -9,7 +9,7 @@ August 2024 &rarr; April 2025 (approximation)
 
 ##### **Date of public archiving:**
 
-10 April 2025 on [Zenodo](https://doi.org/10.5281/zenodo.15186138)
+April 2025 on [Zenodo](https://doi.org/10.5281/zenodo.15186138)
 
 ##### **Goal**
 

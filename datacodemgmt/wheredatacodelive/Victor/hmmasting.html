@@ -11,7 +11,7 @@
 
 
 
-<title>synchrony</title>
+<title>hmmasting</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -352,26 +352,27 @@ display: none;
 </div>
 
 
-<div id="synchrony-wdc" class="section level4">
-<h4><strong>Synchrony WDC</strong></h4>
+<div id="masting-and-hmm-wdc" class="section level4">
+<h4><strong>Masting and HMM WDC</strong></h4>
 <p><em>Last Modified:</em> October 2026</p>
 <hr />
 <div id="date-of-study" class="section level5">
 <h5><strong>Date of study</strong></h5>
-<p>August 2024 → April 2025 (approximation)</p>
+<p>March 2025 → October 2026 (approximation)</p>
 </div>
 <div id="date-of-public-archiving" class="section level5">
 <h5><strong>Date of public archiving:</strong></h5>
-<p>April 2025 on <a href="https://doi.org/10.5281/zenodo.15186138">Zenodo</a></p>
+<p>December 2026 (projection)</p>
 </div>
 <div id="goal" class="section level5">
 <h5><strong>Goal</strong></h5>
-<p>Show how summer solstice coincide with an optimal period for GDD
-accumulation and predictability</p>
+<p>Fit an HMM on beech seed production data, and show why it’s
+important</p>
 </div>
 <div id="contributors" class="section level5">
 <h5><strong>Contributors</strong></h5>
 <p>Victor Van der Meersch</p>
+<p>Mike Betancourt</p>
 <p>Elizabeth Wolkovich <a href="mailto:wolkovic@mail.ubc.ca" class="email">wolkovic@mail.ubc.ca</a></p>
 <hr />
 </div>
@@ -392,13 +393,18 @@ accumulation and predictability</p>
 </thead>
 <tbody>
 <tr class="odd">
-<td><code>optimality_X.rds</code> files</td>
-<td><a href="https://github.com/vvandermeersch/synchrony/tree/main/data/processed">Github</a></td>
-<td>Optimality processed data, computed with ERA5-Land, CMIP6 and
-Holocene projections</td>
+<td><code>Beech_tree-ring_masting_data.csv</code></td>
+<td><a href="https://github.com/temporalecologylab/seedsarentreal/blob/9fb3e7366f2f91fd08ef619d583dcc5a2552208e/analyses/methods/data/ebms/Beech_tree-ring_masting_data.csv">Github</a></td>
+<td>Data from Hacket-Pain et al. paper</td>
+</tr>
+<tr class="even">
+<td><code>mastree_subset_fagus.csv</code></td>
+<td><a href="https://github.com/temporalecologylab/seedsarentreal/blob/9fb3e7366f2f91fd08ef619d583dcc5a2552208e/analyses/methods/data/mastree/mastree_subset_fagus.csv">Github</a></td>
+<td>Data from Journe et al. paper</td>
 </tr>
 </tbody>
 </table>
+<p><em>Note</em>: see also detailed README file <a href="https://github.com/temporalecologylab/seedsarentreal/tree/main/analyses/methods/data">here</a></p>
 </div>
 <div id="code" class="section level5">
 <h5><strong>Code</strong></h5>
@@ -417,24 +423,10 @@ Holocene projections</td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><code>preamble.R</code></td>
-<td><a href="https://github.com/vvandermeersch/synchrony/blob/5d23443a7ce472e8f66802419a93e94c3ba815ed/scripts/preamble.R">Github</a></td>
-<td>Setup script</td>
-</tr>
-<tr class="even">
-<td><code>gdd_historical_era5land.R</code></td>
-<td><a href="https://github.com/vvandermeersch/synchrony/blob/5d23443a7ce472e8f66802419a93e94c3ba815ed/scripts/gdd_historical_era5land.R">Github</a></td>
-<td>Compute GDD optimum with ERA5-Land</td>
-</tr>
-<tr class="odd">
-<td><code>gdd_future.R</code></td>
-<td><a href="https://github.com/vvandermeersch/synchrony/blob/5d23443a7ce472e8f66802419a93e94c3ba815ed/scripts/gdd_future.R">Github</a></td>
-<td>Compute GDD optimum with CMIP6</td>
-</tr>
-<tr class="even">
-<td><code>gdd_holocene.R</code></td>
-<td><a href="https://github.com/vvandermeersch/synchrony/blob/5d23443a7ce472e8f66802419a93e94c3ba815ed/scripts/gdd_holocene.R">Github</a></td>
-<td>Compute GDD optimum with Holocene projections</td>
+<td><code>pipeline.R</code></td>
+<td><a href="https://github.com/temporalecologylab/seedsarentreal/blob/9fb3e7366f2f91fd08ef619d583dcc5a2552208e/analyses/methods/paper_code/pipeline.R">Github</a></td>
+<td>Pipeline script that allows to run all the models and make all the
+figures</td>
 </tr>
 </tbody>
 </table>
@@ -456,8 +448,8 @@ Holocene projections</td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><code>synchrony.tex</code> and associated files</td>
-<td><a href="https://github.com/vvandermeersch/synchrony/blob/5d23443a7ce472e8f66802419a93e94c3ba815ed/docs/synchrony.tex">Github</a></td>
+<td><code>beechmasting_ms.tex</code> and associated files</td>
+<td><a href="https://github.com/temporalecologylab/seedsarentreal/blob/9fb3e7366f2f91fd08ef619d583dcc5a2552208e/docs/beechmasting/beechmasting_ms.tex">Github</a></td>
 <td>Manuscript stuff</td>
 </tr>
 </tbody>
@@ -465,7 +457,6 @@ Holocene projections</td>
 </div>
 <div id="comments" class="section level5">
 <h5><strong>Comments</strong></h5>
-<p>Published in <a href="https://doi.org/10.1073/pnas.2506796122">PNAS</a></p>
 </div>
 </div>
 
