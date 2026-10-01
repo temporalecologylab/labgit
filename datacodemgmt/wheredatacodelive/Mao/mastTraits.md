@@ -11,17 +11,17 @@ Sep. 2024 -- >
 ##### *Date of Public Archiving:*
 
 
-Nov. 2025 (estimated)
+Nov. 2026
 
 #### *Last Modified:*
 
 
-23 Mar 2025
+1 Oct 2026
 
 #### *Goal*
 
 
-Collecting reproductive traits data of masting and non-mastingtree species, trying to look at which reproductive traits are more relevant to the tendency of a species to mast.
+Collecting reproductive traits data of strong masting and weak masting tree species, trying to look at which traits are more relevant to the tendency of a species to mast under different hypotheses.
 
 #### *Contributors*
 
@@ -40,10 +40,20 @@ Elizabeth Wolkovich - e.wolkovich@ubc.ca
 
 | **File**                                                                                                                                                                                                                                                                                                     | **Where**                                                                                                                       | **What**                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|silvicsDataScraping.xlsx                                                                      | [Github](https://github.com/wangxm-forest/mast_trait/blob/main/Data/silvicsDataScraping.xlsx)                | Reproductive traits scraped from Silvics of North America                                    |
-| MASTREE.xlsx | [Github]()                 | Reproductive traits scraped from MASTREE dataset (not here yet)                                    |
-| silvics_vol1.pdf                                                                                                                                                                                                                                                                              | [Github](https://github.com/wangxm-forest/mast_trait/blob/main/Data/Input/silvics_vol1.pdf) | Silvics of North America Volume 1 Conifers |
-| silvics_v2.pdf                                                                                                                                                                                                                                                                                     | [Github](https://github.com/wangxm-forest/mast_trait/blob/main/Data/Input/silvics_v2.pdf)     | Silvics of North America Volume 2 Hardwoods                                                                           |
+|silvicsDataScraping.xlsx | [Github](https://github.com/wangxm-forest/mast_trait/blob/main/Data/silvicsDataScraping.xlsx)| Reproductive traits scraped from Silvics of North America |
+| silvics_vol1.pdf | [Github](https://github.com/wangxm-forest/mast_trait/blob/main/Data/Input/silvics_vol1.pdf) | Silvics of North America Volume 1 Conifers |
+| silvics_v2.pdf | [Github](https://github.com/wangxm-forest/mast_trait/blob/main/Data/Input/silvics_v2.pdf) | Silvics of North America Volume 2 Hardwoods |
+| silvicsFullDataOrig.csv | [Github](https://github.com/wangxm-forest/mast_trait/blob/main/Data/silvicsFullDataOrig.csv) | Compiled full original data ready for cleaning |
+| cleanSilvics.csv | [Github](https://github.com/wangxm-forest/mast_trait/blob/main/Data/cleanSilvics.csv) | Cleaned data ready for analysis |
+| TRY | [Github](https://github.com/wangxm-forest/mast_trait/tree/main/Data/TRY) | Extra trait data downloaded from TRY |
+| dataCleaning.R | [Github](https://github.com/wangxm-forest/mast_trait/blob/main/analyses/dataCleaning.R) | Code used to clean the original silvics data |
+| firstDataVisual.R | [Github](https://github.com/wangxm-forest/mast_trait/blob/main/analyses/firstDataVisual.R) | Some preliminary visualization code to understand the data |
+| glm.R | [Github](https://github.com/wangxm-forest/mast_trait/blob/main/analyses/glm.R) | Code for the main phyloglm analysis |
+| nmds.R | [Github](https://github.com/wangxm-forest/mast_trait/blob/main/analyses/nmds.R) | Code for NMDS analysis |
+| otherAnalysis.R | [Github](https://github.com/wangxm-forest/mast_trait/blob/main/analyses/otherAnalysis.R) | Code for some other analyses we attempted which were not used in the final paper |
+| phyo.R | [Github](https://github.com/wangxm-forest/mast_trait/blob/main/analyses/phyo.R) | Code for making phylogeny tree and doing all the phylogenetic signal analyses |
+
+
 
 **Github**
 

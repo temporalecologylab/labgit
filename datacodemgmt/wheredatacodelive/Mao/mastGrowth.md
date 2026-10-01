@@ -11,12 +11,12 @@ July. 2024 -- >
 ##### *Date of Public Archiving:*
 
 
-Nov. 2026 (estimated)
+May. 2027 (estimated)
 
 #### *Last Modified:*
 
 
-23 Mar 2025
+1 Oct 2026
 
 #### *Goal*
 
@@ -38,6 +38,8 @@ Avery Kruger - avery.kruger@botany.ubc.ca
 
 Adam Fong - adamfong888@gmail.com
 
+Victor Van der Meersch - victor.vandermeersch@ubc.ca
+
 #### *General Files*
 
 | **File**                                                                                                                                                                                                                                                                                                     | **Where**                                                                                                                       | **What**                                                                                                                                                                           |
@@ -47,8 +49,16 @@ Adam Fong - adamfong888@gmail.com
 
 | **File**                                                                                                                                                                                                                                                                                                     | **Where**                                                                                                                       | **What**                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|coreMountingProtocol.pdf                                                                      | [Github](https://github.com/wangxm-forest/mast_growth/blob/master/notes/coreMountingProtocol.pdf)                | A guide on how to mount tree cores for this project                                    |
-| TreeCores.xlsx | [Github](https://github.com/wangxm-forest/mast_growth/blob/master/notes/TreeCores.xlsx)                 | Record for mounting and scanning process                                    |
+|coreMountingProtocol.pdf | [Github](https://github.com/wangxm-forest/mast_growth/blob/master/notes/coreMountingProtocol.pdf) | A guide on how to mount tree cores for this project |
+| TreeCores.xlsx | [Github](https://github.com/wangxm-forest/mast_growth/blob/master/notes/TreeCores.xlsx) | Record for mounting and scanning process |
+| climate | [Github](https://github.com/wangxm-forest/mast_growth/tree/master/data/climate) | Climate data downloaded from WLDAS and downscaled to our stands |
+| dbhMORA.csv | [Github](https://github.com/wangxm-forest/mast_growth/tree/master/data/dbhMORA.csv) | DBH data for trees at MORA stand from PSP|
+| MORA_cleanseeds_2009-2017.csv | [Github](https://github.com/wangxm-forest/mast_growth/tree/master/data/MORA_cleanseeds_2009-2017.csv) | Cleaned seed data from MORA stands from 2009-2017 |
+| seedMORAFull.csv | [Github](https://github.com/wangxm-forest/mast_growth/tree/master/data/seedMORAFull.csv) | Complied seed data from MORA stands from 2008-2024 |
+| dataPrep.R | [Github](https://github.com/wangxm-forest/mast_growth/tree/master/analyses/dataPrep.R) | Code for preparing growth data and seed data for running the stan model |
+| dataPrep.R | [Github](https://github.com/wangxm-forest/mast_growth/tree/master/analyses/dataSimulation.R) | Code for data simulation to check on stan models |
+| simpleTradeOff.stan | [Github](https://github.com/wangxm-forest/mast_growth/tree/master/analyses/stan/simpleTradeOff.stan) | stan code for our simple trade-off model |
+
 
 **Github**
 
