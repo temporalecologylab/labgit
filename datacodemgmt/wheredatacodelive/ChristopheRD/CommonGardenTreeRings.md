@@ -1,16 +1,16 @@
 # WildChrokie WDC
 **This is the WDC for the common garden project on tree cookies which will be included in Christophe's Chapter 2 **
 
-#### *Last Modified:*  26 October 2026
+#### Last Modified: 26 October 2026
 
-#### *Date of Study*
+#### Date of Study
 2015 to spring 2023. Followed work on the cookies started in September 2024 and was submitted to New Phytologist in November 2026. Should be completed some time after this
-##### *Date of Public Archiving:*
-January 2026 (estimated)
-##### *Goal*
+##### Date of Public Archiving:
+January 2027 (estimated)
+##### Goal
 Understand how longer and warmer season relates to growth for juvenile trees across different provenances.
 
-#### *Contributors*
+#### Contributors
 [Christophe Rouleau-Desrochers](mailto:christophe.rouleau.desrochers@gmail.com)
 - Elizabeth Wolkovich
 - Neil Pederson
