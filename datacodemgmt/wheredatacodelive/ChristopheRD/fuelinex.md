@@ -1,53 +1,61 @@
-##Fuelinex WDC
-#### *Last Modified:*  24 February 2024
+# Fuelinex WDC
+#### Last Modified:  24 February 2024
 
-#### *Date of study*
-February 2024 -- > December 2025 (Estimated)
-
-##### *Date of Public Archiving:*
-June 2026 (Estimated)
-
-##### *Goal*
-Investigate how extended growing seasons influence tree's capacity to grow to following year. And also get a Master's degree!
-
-#### *Contributors*
-
-**Elizabeth Wolkovich**
-wolkovic@mail.ubc.ca
-
-**Frederik Baumgarten**
-frederik.baumgarten@protonmail.ch
-
-**Xiaomao Wang**
-wangxm29@mail.ubc.ca
-
-Deirdre Loughnan
-
-Ken Michiko Samson
-
-Justin Ngo
-
-Britany Wu
-
-Selena Shew
-
-Mark Pan
-
-Julie Sieg
-
-Colette Bennett
+#### Date of study
+February 2024 -- > December 2025. Analyses started in early 2026
+##### Date of Public Archiving:
+2027 (Estimated)
+##### Goal:
+Investigate how extended growing seasons influence tree's capacity to grow to following year.
+#### Contributors
+[Christophe Rouleau-Desrochers](mailto:christophe.rouleau.desrochers@gmail.com)
+- Elizabeth Wolkovich
+- Frederik Baumgarten
+- Ken Michiko Samson
+- Xiaomao Wang
+- Deirdre Loughnan
+- Justin Ngo
+- Britany Wu
+- Selena Shew
+- Mark Pan
+- Julie Sieg
+- Colette Bennett
+- Nolan Meier
+- Qingyang (Devina) Deng
+- Tess Blajberg
 
 ## *General Files*
 
-| **File**                                              | **Where**                                                                                                                            | **What**                                                                                                          |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| greenHouseDesign.pdf                                  | [Github](https://github.com/christophe-rd/fuelinex/tree/6a2efaaed78ca0dc0ef74622ca1b3f0a95411d92/notes/greenhouse_design)            | Greenhouse arrangement by blocs for Fuelinex 2024. Might change for 2025.                                         |
-| dailylog (folder)                                     | [Github](https://github.com/christophe-rd/fuelinex/tree/6a2efaaed78ca0dc0ef74622ca1b3f0a95411d92/notes/dailylog)                     | all .tex files necessary to run Fuelinex daily log activities. Run main.tex without moving the folders and files. |
-| IP_adresses.md                                        | [Github](https://github.com/christophe-rd/fuelinex/tree/6a2efaaed78ca0dc0ef74622ca1b3f0a95411d92/notes/climate_chamber)              | IP adresses for the climate chambers. Useful when using VNet to control them.                                     |
-| schedule (folder)                                     | [Github](https://github.com/christophe-rd/fuelinex/tree/6a2efaaed78ca0dc0ef74622ca1b3f0a95411d92/notes/climate_chamber/schedule)     | .sch files for the CoolSpring and WarmFall treatments. This is the file extension necessary to load them in VNet. |
-| BalsamPoplarPhenologyObservations inCommonGarden.docx | [Github](https://github.com/christophe-rd/fuelinex/tree/a2cd0691e6c7f301575c68e5dc3996580ad621a1/notes/methodology)                  | Phenology guide kindly provided by Raju Soolanayakanahally.                                                       |
-| OakPhenologyStages.docx                               | [Github](https://github.com/christophe-rd/fuelinex/tree/a2cd0691e6c7f301575c68e5dc3996580ad621a1/notes/methodology)                  | Phenology guide kindly provided by Raju Soolanayakanahally.                                                       |
-| budset_data_FINAL_JS.xlsx                             | [Github](https://github.com/christophe-rd/fuelinex/tree/a2cd0691e6c7f301575c68e5dc3996580ad621a1/notes/methodology/pheno_monitoring) | Pheanoflex budset data with pictures.                                                                             |
+| **File**                                              | **Where**                                                                                                                            | **What**                                                                                                                                                                          |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| greenHouseDesign.pdf                                  | [Github](https://github.com/christophe-rd/fuelinex/tree/6a2efaaed78ca0dc0ef74622ca1b3f0a95411d92/notes/greenhouse_design)            | Greenhouse arrangement by blocs for Fuelinex 2024. Might change for 2025.                                                                                                         |
+| dailylog (folder)                                     | [Github](https://github.com/christophe-rd/fuelinex/tree/6a2efaaed78ca0dc0ef74622ca1b3f0a95411d92/notes/dailylog)                     | all .tex files necessary to run Fuelinex daily log activities. Run main.tex without moving the folders and files.                                                                 |
+| IP_adresses.md                                        | [Github](https://github.com/christophe-rd/fuelinex/tree/6a2efaaed78ca0dc0ef74622ca1b3f0a95411d92/notes/climate_chamber)              | IP adresses for the climate chambers. Useful when using VNet to control them.                                                                                                     |
+| schedule (folder)                                     | [Github](https://github.com/christophe-rd/fuelinex/tree/6a2efaaed78ca0dc0ef74622ca1b3f0a95411d92/notes/climate_chamber/schedule)     | .sch files for the CoolSpring and WarmFall treatments. This is the file extension necessary to load them in VNet.                                                                 |
+| BalsamPoplarPhenologyObservations inCommonGarden.docx | [Github](https://github.com/christophe-rd/fuelinex/tree/a2cd0691e6c7f301575c68e5dc3996580ad621a1/notes/methodology)                  | Phenology guide kindly provided by Raju Soolanayakanahally.                                                                                                                       |
+| OakPhenologyStages.docx                               | [Github](https://github.com/christophe-rd/fuelinex/tree/a2cd0691e6c7f301575c68e5dc3996580ad621a1/notes/methodology)                  | Phenology guide kindly provided by Raju Soolanayakanahally.                                                                                                                       |
+| budset_data_FINAL_JS.xlsx                             | [Github](https://github.com/christophe-rd/fuelinex/tree/a2cd0691e6c7f301575c68e5dc3996580ad621a1/notes/methodology/pheno_monitoring) | Pheanoflex budset data with pictures.                                                                                                                                             |
+| climatechamber_pots.skp                               | [Github](https://github.com/christophe-rd/fuelinex/tree/6a2efaaed78ca0dc0ef74622ca1b3f0a95411d92/notes/climate_chamber)              | Sketchup file to figure out how many pots I could fit in the chambers                                                                                                             |
+| photoperiod_schedule.xlsx                             | [Github](https://github.com/christophe-rd/fuelinex/tree/6a2efaaed78ca0dc0ef74622ca1b3f0a95411d92/notes/climate_chamber)              | Sunrise and sunset schedules for the chambers                                                                                                                                     |
+| sunrisesunsetvancouver.csv                            |                                                                                                                                      | Sunrise and sunset data in Vancouver to have a sense of what to set the chambers at.                                                                                              |
+| committeeMeeting (folder)                             |                                                                                                                                      | Committee meeting notes                                                                                                                                                           |
+| dailylog (folder)                                     |                                                                                                                                      | daily log mostly of fuelinex activities but also some other MSc stuff from early 2024 to end of 2025                                                                              |
+| whatdata.xlsx                                         |                                                                                                                                      | As of early 2025, what data did I have for fuelinex                                                                                                                               |
+| chaptersDesign.pdf                                    |                                                                                                                                      | Full MSc thesis design                                                                                                                                                            |
+| Fuelinex_Design2024.pdf                               |                                                                                                                                      | 2024 experimental design                                                                                                                                                          |
+| fertilizer_addition_20240607.xlsx                     |                                                                                                                                      | fertilizater addition in 2024                                                                                                                                                     |
+| fleetingNotes (folder)                                |                                                                                                                                      | Litterature review fleeting notes                                                                                                                                                 |
+| greenHouseDesign.pdf                                  |                                                                                                                                      | Greenhouse bloc design with hobo loggers                                                                                                                                          |
+| masterstimeline (folder)                              |                                                                                                                                      | ganttchhart and stuff                                                                                                                                                             |
+| a3-ruler.pdf                                          |                                                                                                                                      | Paper ruler pdf                                                                                                                                                                   |
+| biomassProtocol.pdf                                   |                                                                                                                                      | Biomass protocol                                                                                                                                                                  |
+| comitee_email.md                                      |                                                                                                                                      | emails to send to my future committee members                                                                                                                                     |
+| comitee_members_list.md                               |                                                                                                                                      | List of potential committee members                                                                                                                                               |
+| grammarlyTest.tex                                     |                                                                                                                                      | My usage of grammarly as per lizzies request on AI policies                                                                                                                       |
+| segireplication.md                                    |                                                                                                                                      | Segi replication as I changed the nitro boosted trees (they ended up never receiving any nitrogen boost in the fall) to non boosted ones to increase replication as so many died. |
+| tree_ordering (folder)                                |                                                                                                                                      | tree ordering                                                                                                                                                                     |
+| awards (folder)                                       |                                                                                                                                      | All the different awards and conference application I submitted during my MSc                                                                                                     |
+
 
 ## *Data*
 
@@ -61,6 +69,16 @@ Colette Bennett
 | TotemField_30Years.csv                                                                                                                                                                                                                                                                                       | [Github](https://github.com/christophe-rd/fuelinex/tree/71c1dd92573e9d1b47a0c1c4bd5273476025bbb1/data/totemFieldClimateData)    |                                                                                                                                                                                    |
 | Jun2024TreeInventory.csv                                                                                                                                                                                                                                                                                     | [Github](https://github.com/christophe-rd/fuelinex/tree/71c1dd92573e9d1b47a0c1c4bd5273476025bbb1/data/treeInventory)            | inventory of leftover trees next to the greenhouse                                                                                                                                 |
 | TreeMeasurements.xlsx                                                                                                                                                                                                                                                                                        | [Github](https://github.com/christophe-rd/fuelinex/tree/71c1dd92573e9d1b47a0c1c4bd5273476025bbb1/data/treeMeasurements)         | Diameter and height measurements                                                                                                                                                   |
+| hoboLight (folder)                                                                                                                                                                                                                                                                                           |                                                                                                                                 | Hobo light loggers that I installed. Probably will never use this data.                                                                                                            |
+| hoboTemp (folder)                                                                                                                                                                                                                                                                                            |                                                                                                                                 | Hobo temp loggers that I installed by date of backup.                                                                                                                              |
+| 2025-212_Chltoocomparison.xlsx                                                                                                                                                                                                                                                                               |                                                                                                                                 | Minolta vs ccm200plus chlorophyll measurements at different doy on different species so we can have conversion rate                                                                |
+| 2025-235_Chltoocomparison.xlsx                                                                                                                                                                                                                                                                               |                                                                                                                                 | same as above                                                                                                                                                                      |
+| 2025-290_Chltoocomparison.xlsx                                                                                                                                                                                                                                                                               |                                                                                                                                 | same as above                                                                                                                                                                      |
+| 2025Leafcount.xlsx                                                                                                                                                                                                                                                                                           |                                                                                                                                 | Leaf count                                                                                                                                                                         |
+| 2025SummerChl.xlsx                                                                                                                                                                                                                                                                                           |                                                                                                                                 | Number of leaves in 2025 on 3 species                                                                                                                                              |
+| 2025VWC.xlsx                                                                                                                                                                                                                                                                                                 |                                                                                                                                 | VWC measurements                                                                                                                                                                   |
+| MiscellaneousMonitoring.xlsx                                                                                                                                                                                                                                                                                 |                                                                                                                                 |                                                                                                                                                                                    |
+| tagWeight.xlsx                                                                                                                                                                                                                                                                                               |                                                                                                                                 |                                                                                                                                                                                    |
 
 | Cleaned files                 | Where                                                                                                                                   | What                                                                                         |
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
